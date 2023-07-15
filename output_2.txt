@@ -1,0 +1,70 @@
+                  0              1    2    3    4     5     6        7      8
+Text:     u-mookhai           kitæ  toh   ki   wa    æm    ha   chnong  jwai.
+IPA:     ˀu=mookʰaj          ki=tɛ  tɔʔ   ki   wa   ˀɛm    ha     ʧnɔŋ   ʤwaj
+Gloss:    M=Mookhai        PL=nvis   be  3pl  NMZ  have   LOC  village  Jowai
+POS:    clitic=name  clitic=deixis    v   pn  mod     v  case        n   name 
+
+Trans:	`there is also that four diversion i.e. mooralong, moosniang, mooting and mookhai all these is in jowai town..'
+
+====================================================================================================
+
+          0         1        2      3    4    5       6             7     8              9         10          11    12       13
+Text:     da  ya-chong  pyrkhat    bha    i   wa  kammon     u-pyndooh    ya          ki-ni   ki-jait         sih    ha   chnong
+IPA:      da    ja-ʧɔŋ  pr̩kʰat    bha   ˀi   wa  kammɔn    ˀu=pn̩-doʔ    ja          ki=ni  ki=ʤaʲt̪         siʔ    ha     ʧnɔŋ
+Gloss:  REAL   BEN-sit    think  INTS1  1pl  NMZ     how  NF=CAUS-lose   BEN        PL=prox   PL=type  be.sad,bad   LOC  village
+POS:    mood  prefix-v        v    adv   pn  mod       q  der=prefix-v  case  clitic=deixis  clitic=n           v  case        n 
+
+Trans:	`the church committee had a discussion of how to stop these bad habits in the locality.'
+
+====================================================================================================
+
+           0           1                     2     3        4     5      6     7      8
+Text:     ha      u-toor             li-pyndæp    ha   chnong    ha   thaw    ne     sæ
+IPA:      ha      ˀu=tor            li-pn̩-dɛp    ha     ʧnɔŋ    ha   tʰaw    ne     sɛ
+Gloss:   LOC  NF=advance         DUR-CAUS-CPLV   LOC  village   LOC  place    or  C.TAG
+POS:    case       der=v  prefix-prefix-aspect  case        n  case      n  conj      q 
+
+Trans:	` when they (the other tribes) reached, when they say they die, it's ok to advance to the village, at the advance to finish it completely in the village.'
+
+====================================================================================================
+
+                   0     1    2       3         4    5    6     7    8       9     10        11                  12    13       14
+Text:         hei-rta  yong  phi    jooh    kynmoo  phi   wa    æm   wa    jooh   wan  ka-khlam              hei-ni    ha  chnong?
+IPA:       he-ˀi=reta   jɔŋ  pʰi     ʤoʔ     kn̩mo  pʰi   wa   ˀɛm   wa     ʤoʔ   wan  ka=kʰlam            he-ˀi=ni    ha     ʧnɔŋ
+Gloss:      LOC-N=age   GEN  2pl     HAB  remember  2pl  NMZ  have  NMZ     HAB  come  F=plague          LOC-N=prox   LOC  village
+POS:    case-clitic=n  case   pn  aspect         v   pn  mod     v  mod  aspect     v  clitic=n  case-clitic=deixis  case        n 
+
+Trans:	`In your age do you remmber any plague that happened here in your vill.'; .'
+
+====================================================================================================
+
+               0    1    2                   3         4    5    6    7     8         9        10   11       12    13       14
+Text:      ki-bru   wa  yap              hei-tæ     i-por  ong   ki   ym    æm        de   u-nood   ki  u-chong    ha  chnong.
+IPA:       ki=bru   wa  jap            he-ˀi=tɛ    ˀi=pɔr  ˀɔŋ   ki   m̩   ˀɛm        de   ˀu=nod   ki   ˀu=ʧɔŋ    ha     ʧnɔŋ
+Gloss:  PL=person  NMZ  die          LOC-N=nvis    N=time  say  3pl  NEG  have  neg.ints  NF=dare  3pl   NF=sit   LOC  village
+POS:     clitic=n  mod    v  case-clitic=deixis  clitic=n    v   pn  neg     v       adv    der=v   pn    der=v  case        n 
+
+Trans:	`it seems after the war, the plague happened, many people died and many people were scared to live in the vill.'; .'
+
+====================================================================================================
+
+            0      1           2    3     4    5       6      7              8          9                   10    11       12
+Text:     jooh  khana       parom   ki    ya  phi  kammon  sdang      ka-balang    kristan              hei-ni    ha  chnong?
+IPA:       ʤoʔ  kʰana       parɔm   ki    ja  pʰi  kammɔn   sdaŋ       ka=balaŋ    kristan            he-ˀi=ni    ha     ʧnɔŋ
+Gloss:     HAB   tell  tell.story  3pl   BEN  2pl     how  begin  F=association  christian          LOC-N=prox   LOC  village
+POS:    aspect      v           v   pn  case   pn       q      v       clitic=n    english  case-clitic=deixis  case        n 
+
+Trans:	`did they tell you a story of how christianity began in this vill.'; .'
+
+====================================================================================================
+
+           0        1
+Text:     ha  chnong.
+IPA:      ha     ʧnɔŋ
+Gloss:   LOC  village
+POS:    case        n 
+
+Trans:	`the first and important cultivation for us in this village is rice, the second is potato, the third is millet, then maize cultivation followed.'
+
+====================================================================================================
+

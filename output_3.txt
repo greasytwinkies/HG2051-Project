@@ -1,0 +1,200 @@
+                   0    1    2
+Text:      u-syndong    i  ki.
+IPA:       ˀu=sn̩dɔŋ   ˀi   ki
+Gloss:  NF=take.care  1pl  3pl
+POS:           der=v   pn   pn 
+
+Trans:	`The smoke coming from trucks is much polluted and if we inhale from those airs all of us will suffer from cough, cold, so all that we have to take care of it..'
+
+====================================================================================================
+
+           0    1       2    3    4
+Text:   hawa   ym   æmkam    i  ki.
+IPA:    hawa   m̩  ˀɛmkam   ˀi   ki
+Gloss:  when  NEG    need  1pl  3pl
+POS:       q  neg       v   pn   pn 
+
+Trans:	`then another teaching which we get is that for the animals, � we can kill animals for eating but we cannot do so just for fun�..'
+
+====================================================================================================
+
+               0    1          2     3     4    5    6              7          8         9    10   11          12          13    14   15
+Text:       sumar    i         ka   daw  dooh    i   ki           kitu  ki-phlang   ki-rnæm   ki   wa     soodong      sookun  yong   i.
+IPA:        sumar   ˀi         ka   daw   doʔ   ˀi   ki          ki=tu   ki=pʰlaŋ   ki=rnɛm   ki   wa       sodɔŋ       sokun   jɔŋ   ˀi
+Gloss:  take.care  1pl  3sg.F.acc   IRR  lose  1pl  3pl        PL=medl   PL=grass  PL=shrub  3pl  NMZ  throughout  throughout   GEN  1pl
+POS:            v   pn         pn  mood     v   pn   pn  clitic=deixis   clitic=n  clitic=n   pn  mod           n           n  case   pn 
+
+Trans:	`we have so many resources at present but if we don�t realize we are going to lose it, wealth that God and Motherland has given us if we didn�t take care of it we
+
+====================================================================================================
+
+                   0         1     2     3      4    5    6                 7     8      9    10   11                 12
+Text:      ki-khynnah  chynrang  læh,  nood   bait    i   ki          u-yachoh  nood   bait    i   ki           u-yadat.
+IPA:       ki=kʰn̩naʔ    ʧn̩raŋ   lɛʔ  noːt  baʲt̪   ˀi   ki         ˀu=ja-ʧɔʔ  noːt  baʲt̪   ˀi   ki          ˀu=ja-dat
+Gloss:  PL=little.one      male  also  dare   IMM3  1pl  3pl  NF=BEN-hit,punch  dare   IMM3  1pl  3pl  NF=BEN-hit,strike
+POS:         clitic=n         n   adv     v    adv   pn   pn      der=prefix-v     v    adv   pn   pn       der=prefix-v 
+
+Trans:	`i also remember that during our childhood we were very mischievous also we were outskirt people so we were not afraid to fight with Boys..'
+
+====================================================================================================
+
+               0    1          2    3     4          5           6    7    8
+Text:       tang   wa          u   ki   wan        ræp       riang    i   ki
+IPA:         taŋ   wa         ˀu   ki   wan        rɛp        riaŋ   ˀi   ki
+Gloss:  but,even  NMZ  3sg.M.nom  3pl  come  cultivate  plant.type  1pl  3pl
+POS:        conj  mod         pn   pn     v          v           n   pn   pn 
+
+Trans:	`I slapped them because there talked stupidly, so god truly after I slapped them, now they respect and love me because they realized that I speak of the truth, I
+
+====================================================================================================
+
+          0       1     2              3    4         5      6     7           8    9    10   11
+Text:     da     dæp  tip,            itæ  phi    lipait     sæ  yong          ih   wa    i  ki,
+IPA:      da     dɛp   tɪp          ˀi=tɛ  pʰi  li-paʲt̪     sɛ   jɔŋ         ˀiʔ   wa   ˀi   ki
+Gloss:  REAL    CPLV  know         N=nvis  2pl  DUR-look  C.TAG   GEN  ripe,right  NMZ  1pl  3pl
+POS:    mood  aspect     v  clitic=deixis   pn  prefix-v      q  case           v  mod   pn   pn 
+
+Trans:	`I said ok, so I asked the vice chairman, and he said that they will give.so we decide to go and take a look at the land.'
+
+====================================================================================================
+
+            0        1         2          3    4    5     6        7
+Text:    awri  sakhiet  nangkong        mih    i  ki,    na  muleih.
+IPA:    ˀawri  sakʰiat    nŋ̩kɔŋ        miʔ   ˀi   ki    na   muleʲʔ
+Gloss:  argue  be.true  be.first  bring.out  1pl  3pl   ABL   Muleih
+POS:        v        v         v          v   pn   pn  case     name 
+
+Trans:	`after we divided the land(6 communities), a conflict arise from the community mulieh.'
+
+====================================================================================================
+
+             0     1          2         3     4              5              6          7    8    9       10
+Text:    chnong    ya  ka-chnong  raliang,     e       khublei,        khublei    shiboon    i   ki  waroh.
+IPA:       ʧnɔŋ    ja    ka=ʧnɔŋ    raliaŋ    ˀe         kʰuble         kʰuble      ʃibun   ˀi   ki   warɔʔ
+Gloss:  village   BEN  F=village   Raliang  give  thanks(Khasi)  thanks(Khasi)  very.much  1pl  3pl     all
+POS:          n  case   clitic=n         n     v              v              v      khasi   pn   pn     num 
+
+Trans:	`so with that, I give thanks to you, thank you For this interview as the village headman, thanks, thank you all very much
+
+====================================================================================================
+
+                    0     1         2        3                   4     5            6         7    8          9    10   11
+Text:          ka-skur    ha   ka-yung     club             hei-tai    ha  dongmihsngi       dei   wa    chimwai    i   ki
+IPA:           ka=skur    ha    ka=juŋ     klɔb           he-ˀi=taj    ha    dɔŋmiʔsŋi     de-ˀi   wa    ʧɪm-waj   ˀi   ki
+Gloss:        F=school   LOC    F=home     club        LOC-N=distal   LOC  Dongmihsngi  INST-1pl  NMZ  take-open  1pl  3pl
+POS:    clitic=english  case  clitic=n  english  case-clitic=deixis  case         name   case-pn  mod        v-v   pn   pn 
+
+Trans:	`The school-goers at that time were 20 students. We started our school by renting Dongmihsngi community hall.'
+
+====================================================================================================
+
+                0    1    2           3         4    5              6    7    8                  9     10   11
+Text:   ki-kyntein   ki   wa       i-man    brabor  toh  u-sñiawthooh    i   ki         hei-jingim  yong   i.
+IPA:    ki=kn̩teʲn   ki   wa      ˀi=man    brabɔr  tɔʔ   ˀu=sɲiawtʰoʔ   ˀi   ki      he-ˀi=ʤiŋ-ˀɪm   jɔŋ   ˀi
+Gloss:     PL=word  3pl  NMZ  ACT=become  valuable   be  NF=understand  1pl  3pl  LOC-N=ab.NMZ-live   GEN  1pl
+POS:      clitic=n   pn  mod       der=v         v    v          der=v   pn   pn  case-clitic=nmz-v  case   pn 
+
+Trans:	` 'if we serve mankind we serve God and we should understand their value in our life.'
+
+====================================================================================================
+
+           0         1             2     3           4     5    6    7
+Text:    soo     tylli    ki-pargana   cha  bangladesh  dooh    i  ki.
+IPA:      so     tl̩li    ki=pargana    ʧa      baŋgla   doʔ   ˀi   ki
+Gloss:  four  CL.piece    PL=pargana   ALL  Bangladesh  lose  1pl  3pl
+POS:     num      clsf  clitic=hindi  case        name     v   pn   pn 
+
+Trans:	`So as of now since there was a territory division between india and Bangladesh, we lost all the 24 pargana since they are situated in Bangladesh.'
+
+====================================================================================================
+
+                0     1    2    3    4         5           6     7    8    9     10   11    12   13   14   15    16   17   18            19
+Text:   ki-kyntein  yong    i   ki   wa    hadooh       katni    æm   ki   wa   tip   ki    æm   ki   wa   ym   tip  ki.   ym  sñiawthooh.
+IPA:    ki=kn̩teʲn   jɔŋ   ˀi   ki   wa    ha-doʔ      kat-ni   ˀɛm   ki   wa   tɪp   ki   ˀɛm   ki   wa   m̩   tɪp   ki   m̩     sɲiawtʰoʔ
+Gloss:     PL=word   GEN  1pl  3pl  NMZ  LOC-when     as-prox  have  3pl  NMZ  know  3pl  have  3pl  NMZ  NEG  know  3pl  NEG    understand
+POS:      clitic=n  case   pn   pn  mod  case-loc  adv-deixis     v   pn  mod     v   pn     v   pn  mod  neg     v   pn  neg             v 
+
+Trans:	`if we say 'ka palong many will understand that it's a 'bed', but 'ka palong was the one we use to cover while sleeping ( like a blanket), and if we say 'sata which
+
+====================================================================================================
+
+           0          1    2    3    4    5     6              7            8         9
+Text:   yong         oo   ym  yoo    i  ki,    na         ki-tai       pynhæh  u-deiñ.
+IPA:     jɔŋ         ˀo   m̩   jo   ˀi   ki    na         ki=taj      pn̩-hɛʔ   ˀu=deʲɲ
+Gloss:   GEN  3sg.M.top  NEG  see  1pl  3pl   ABL      PL=distal  CAUS-be.big    M=tree
+POS:    case         pn  neg    v   pn   pn  case  clitic=deixis     prefix-v  clitic=n 
+
+Trans:	`now when we worship God, we worship Him but we cannot see him, we worship Him to give us blessings, and what is that? so the same thing with the tree, it
+
+====================================================================================================
+
+                     0      1    2    3              4      5             6    7    8
+Text:             skum   khon  ong    i           i-tu    hab        libooh    i   ki
+IPA:              skum   kʰɔn  ˀɔŋ   ˀi          ˀi=tu    hab        li-boʔ   ˀi   ki
+Gloss:  straw,shavings  child  say  1pl         N=medl  OBLIG  DUR-put,keep  1pl  3pl
+POS:                 n      n    v   pn  clitic=deixis      v      prefix-v   pn   pn 
+
+Trans:	`before delivery everything was kept ready, things are kept ready before delivery, and the placenta we have to go and keep it.'
+
+====================================================================================================
+
+          0    1    2    3     4         5     6         7     8    9    10   11    12   13    14          15    16      17
+Text:     wa    i   ki   wa    im     yanom   sah     yanom    wa  phi   ki   wa   daw  yap   daw        rusa   daw  pyut'.
+IPA:      wa   ˀi   ki   wa   ˀɪm    ja-nɔm   saʔ    ja-nɔm    wa  pʰi   ki   wa   daw  jap   daw        rusa   daw    pʔut
+Gloss:  COMT  1pl  3pl  NMZ  live  BEN-ever  stay  BEN-ever  COMT  2pl  3pl  NMZ   IRR  die   IRR  decompose?   IRR     rot
+POS:    conj   pn   pn  mod     v  prefix-n     v  prefix-n  conj   pn   pn  mod  mood    v  mood           v  mood       v 
+
+Trans:	`the sun saw all that, heard all the ill speaking she said 'you the perishables value your price with me who will stay/live forever'..'
+
+====================================================================================================
+
+          0    1
+Text:     i  ki.
+IPA:     ˀi   ki
+Gloss:  1pl  3pl
+POS:     pn   pn 
+
+Trans:	`they used to wear this during the Behdeiñkhlam festival, they dance wearing these clothes.'
+
+====================================================================================================
+
+         0     1    2     3    4     5    6    7       8             9         10                  11   12      13   14   15   16           17
+Text:   yoo   hi,   ki   wan   ki   wan   ki   wa     man     ki-maloi,      booh             mynchit   ym    jooh  ong    i  ki,  ki-kyllung.
+IPA:     jo    hi   ki   wan   ki   wan   ki   wa     man      ki=maloj       boʔ             mn̩-ʧɪt   m̩     ʤoʔ  ˀɔŋ   ˀi   ki    ki=kl̩luŋ
+Gloss:  see  EMPH  3pl  come  3pl  come  3pl  NMZ  become  PL=bowl.type  put,keep  after,irrealis-hot  NEG     HAB  say  1pl  3pl   PL=Kyllung
+POS:      v  ints   pn     v   pn     v   pn  mod       v      clitic=n         v              mood-v  neg  aspect    v   pn   pn  clitic=name 
+
+Trans:	`see, any (ki wan ki wan ki wa man) maloi, which is used for storing curry/gravy/stew (mynchit), we never call them-kyllung-(bowl of steel).'
+
+====================================================================================================
+
+          0     1    2    3
+Text:   læh    hi    i  ki.
+IPA:    lɛʔ    hi   ˀi   ki
+Gloss:   do  EMPH  1pl  3pl
+POS:      v  ints   pn   pn 
+
+Trans:	`after that, then this is a standing (pynyeiñ)-tadong-(bamboo vessel). These tadong pyn-yeiñ these they used to do/make/use them.'
+
+====================================================================================================
+
+                   0     1     2              3    4               5    6    7    8         9               10     11    12    13    14
+Text:          u-khoh    ha   mm.          u-ni,  ong         ki-khoh  lai    i  ki,       dei         ki-khoh  chru,   mm,  pait   mo.
+IPA:          ˀu=kʰɔʔ    ha    mm          ˀu=ni  ˀɔŋ         ki=kʰɔʔ  laj   ˀi   ki     de-ˀi         ki=kʰɔʔ    ʧru    mm  pat̪    mɔ
+Gloss:  M=cone.basket   LOC    mm         M=prox  say  PL=cone.basket   go  1pl  3pl  INST-1pl  PL=cone.basket   chru    mm  look  QTAG
+POS:         clitic=n  case  conf  clitic=deixis    v        clitic=n    v   pn   pn   case-pn        clitic=n   name  conf     v     q 
+
+Trans:	`the-khoh-, yes. this, see these-khoh-we go these, from the-khoh chru-, mm, look ok..'
+
+====================================================================================================
+
+          0              1         2          3    4     5            6    7       8             9    10   11           12        13             14
+Text:    to,         ki-ni,      tang   kattynde   ym    æm         khoh  lai     yaw     khyrngang    i  ki,         khoh  chyrmang         ki-ni.
+IPA:      tɔ          ki=ni       taŋ  kat-tn̩de   m̩   ˀɛm         kʰɔʔ  laj     jaw       kʰr̩ŋaŋ   ˀi   ki         kʰɔʔ    ʧr̩maŋ          ki=ni
+Gloss:    ok        PL=prox  but,even  as-before  NEG  have  cone.basket   go  market  at.same.time  1pl  3pl  cone.basket  chyrmang        PL=prox
+POS:    conf  clitic=deixis      conj    adv-loc  neg     v            n    v       n           adv   pn   pn            n      name  clitic=deixis 
+
+Trans:	`ok, these, but in olden times they didn-t have market baskets, so the same one they used for both purposes (khyrngang). these are-khoh chyrmang.'
+
+====================================================================================================
+

@@ -1,0 +1,2060 @@
+          0      1    2          3              4
+Text:   ong   beit  phi          u       nei-wan.
+IPA:    ˀɔŋ  baʲt̪  pʰi         ˀu      ne-ˀi=wan
+Gloss:  say   IMM3  2pl  3sg.M.nom     ABL-N=come
+POS:      v    adv   pn         pn  case-clitic=v 
+
+Trans:	`Just say where you are from..'
+
+====================================================================================================
+
+          0    1     2    3     4          5
+Text:    i,    i   sah    i    ha  pannalier
+IPA:     ˀi   ˀi   saʔ   ˀi    ha   panaliar
+Gloss:  1pl  1pl  stay  1pl   LOC   Panaliar
+POS:     pn   pn     v   pn  case       name 
+
+Trans:	`We live in Panaliar..'
+
+====================================================================================================
+
+          0      1          2      3              4         5      6     7      8      9    10         11             12         13
+Text:     ha     yi    i-bynta    mut       yei-bhah      i-yi   siet  phi,   ilæh   siet  phi         ka          ka-ni    ka-tim.
+IPA:      ha     ji   ˀi=bn̩ta    mut     je-ˀi=bhaʔ     ˀi=ji   siɛt   pʰi  ˀilɛʔ   siɛt  pʰi         ka          ka=ni     ka=tɪm
+Gloss:   LOC  thing  N=purpose  means    BEN-N=cause   N=thing  shoot   2pl    why  shoot  2pl  3sg.F.acc         F=prox  F=lottery
+POS:    case      n   clitic=n      v  case-clitic=v  clitic=n      v    pn      q      v   pn         pn  clitic=deixis   clitic=n 
+
+Trans:	`In this i mean what good is it for and why do you shoot this lottery..'
+
+====================================================================================================
+
+                   0       1          2     3           4          5          6          7         8     9          10    11    12   13
+Text:          heipor     man          u   læh       ka-wi         u,          u    nonglæh  leitloid    ya      ka-ri  pnar  yong   i.
+IPA:        he-ˀi=pɔr     man         ˀu   lɛʔ       ka=wi         ˀu         ˀu    nɔŋ-lɛʔ  laitloit    ja      ka=ri  pnar   jɔŋ   ˀi
+Gloss:     LOC-N=time  become  3sg.M.nom  also       F=one  3sg.M.nom  3sg.M.nom  ag.nmz-do   be.free   BEN  F=country  Pnar   GEN  1pl
+POS:    case-clitic=n       v         pn   adv  clitic=num         pn         pn      nmz-v         v  case   clitic=n     n  case   pn 
+
+Trans:	`At the same time, he was a freedom fighter for our Pnar land..'
+
+====================================================================================================
+
+          0         1           2              3         4       5    6          7         8         9     10
+Text:     ya   u-khnam  ka-rynteih        heijooh     i-por     man    i         ka    i-khih    i-khan    mo
+IPA:      ja  ˀu=kʰnam  ka=rn̩teʲʔ      he-ˀi=ʤoʔ    ˀi=pɔr     man   ˀi         ka   ˀi=kʰiʔ   ˀi=kʰan    mɔ
+Gloss:   BEN   M=arrow       F=bow  LOC-N=be.same    N=time  become  1pl  3sg.F.acc  ACT=work    N=work  QTAG
+POS:    case  clitic=n    clitic=n  case-clitic=v  clitic=n       v   pn         pn     der=v  clitic=n     q 
+
+Trans:	`right, and imagine now, Mr. Kiang Nangbah gives this, ok, showing this way from the beginning and on top of this, it means, lets say that you hold the bow and
+
+====================================================================================================
+
+           0             1                2          3    4             5         6    7    8             9             10
+Text:     mut           jar      ki-nongsiet        kam  ong           jar   ki-sngi  ki,   ki           jar      ki-malik
+IPA:      mut           ʤar      ki=nɔŋ-siɛt        kam  ˀɔŋ           ʤar    ki=sŋi   ki   ki           ʤar      ki=malɪk
+Gloss:  means  be.different  PL=ag.nmz-shoot  like,want  say  be.different    PL=day  3pl  3pl  be.different       PL=boss
+POS:        v             v     clitic=nmz-v          v    v             v  clitic=n   pn   pn             v  clitic=hindi 
+
+Trans:	`so different shooters, different days, different owners/winners.'
+
+====================================================================================================
+
+                   0     1    2    3      4    5          6          7         8     9    10   11    12
+Text:       nei-liang  yong   i,    i  keiñ    i         ka        kam  ka-madan  blai   ym  toh    mo
+IPA:       ne-ˀi=liaŋ   jɔŋ   ˀi   ˀi   keʲɲ   ˀi         ka        kam  ka=madan  blaj   m̩  tɔʔ    mɔ
+Gloss:     ABL-N=side   GEN  1pl  1pl  count  1pl  3sg.F.acc  like,want  F=ground   God  NEG   be  QTAG
+POS:    case-clitic=n  case   pn   pn      v   pn         pn          v  clitic=n     n  neg    v     q 
+
+Trans:	`from our side we respect the ground as holy, isn't it so?.'
+
+====================================================================================================
+
+          0          1         2        3     4     5
+Text:   phi         ka     u-rah    chawi   yee    hi
+IPA:    pʰi         ka    ˀu=raʔ    ʧa-wi    je    hi
+Gloss:  2pl  3sg.F.acc  NF=carry  ALL-one  able  EMPH
+POS:     pn         pn     der=v  loc-num     v  ints 
+
+Trans:	`and so this, this (ground) lets say the target shooting, imagine, lets say, you can carry another one? ("chawi" seems to mean 'another one').'
+
+====================================================================================================
+
+            0              1         2    3      4    5     6    7          8              9         10                 11    12        13     14
+Text:       tæ          ka-ni   ka-thaw  ong   beit    i   tip    i         ka          ka-ni   ka-thaw              kamka    mo  ka-syntu  ksiar
+IPA:        tɛ          ka=ni   ka=tʰaw  ˀɔŋ  baʲt̪   ˀi   tɪp   ˀi         ka          ka=ni   ka=tʰaw             kam-ka    mɔ  ka=sn̩tu  ksiar
+Gloss:    nvis         F=prox   F=place  say   IMM3  1pl  know  1pl  3sg.F.acc         F=prox   F=place  as,like-3sg.F.acc  QTAG  F=flower   gold
+POS:    deixis  clitic=deixis  clitic=n    v    adv   pn     v   pn         pn  clitic=deixis  clitic=n             adv-pn     q  clitic=n      n 
+
+Trans:	`and this place, lets say, we know this place is like, right, Sintu Ksiar.'
+
+====================================================================================================
+
+            0      1              2         3     4    5          6              7          8              9         10        11     12     13
+Text:       tæ    mut          neiyi     i-daw  khut    i         ka          ka-ni         ka          ka-ni   ka-thaw  ka-syntu  ksiar     næ
+IPA:        tɛ    mut       ne-ˀi=ji    ˀi=daw  kʰut   ˀi         ka          ka=ni         ka          ka=ni   ka=tʰaw  ka=sn̩tu  ksiar     nɛ
+Gloss:    nvis  means    ABL-N=thing  N=reason  call  1pl  3sg.F.acc         F=prox  3sg.F.acc         F=prox   F=place  F=flower   gold  D.TAG
+POS:    deixis      v  case-clitic=n  clitic=n     v   pn         pn  clitic=deixis         pn  clitic=deixis  clitic=n  clitic=n      n      q 
+
+Trans:	`and so what is the reason we call this place Syntu Ksiar, ok?.'
+
+====================================================================================================
+
+            0              1    2       3    4    5    6          7         8     9
+Text:     mut           kitæ   ki     man  ki,   ki   wa      seiñ   ki-jait   kur
+IPA:      mut          ki=tɛ   ki     man   ki   ki   wa       seʲɲ  ki=ʤaʲt̪   kur
+Gloss:  means        PL=nvis  3pl  become  3pl  3pl  NMZ  committee   PL=type  clan
+POS:        v  clitic=deixis   pn       v   pn   pn  mod          n  clitic=n     n 
+
+Trans:	`So it means they are the ones who started (head) the clan
+
+====================================================================================================
+
+           0      1        2    3          4     5          6              7          8       9         10    11         12
+Text:   ha-o.    mut     mane   ki         ka    na    ki-paid        yeibhah    ki-paid    paid   ki-khon  yong      ka-ri
+IPA:     haˀɔ    mut     mane   ki         ka    na    ki=pait     je-ˀi=bhaʔ    ki=pait    pait   ki=kʰɔn   jɔŋ      ka=ri
+Gloss:    yes  means  worship  3pl  3sg.F.acc   ABL  PL=people    BEN-N=cause  PL=people  people  PL=child   GEN  F=country
+POS:     conf      v        v   pn         pn  case   clitic=n  case-clitic=v   clitic=n       n  clitic=n  case   clitic=n 
+
+Trans:	`right. So they worship her, the people, because they are her children, her country.'
+
+====================================================================================================
+
+                   0    1    2
+Text:      u-syndong    i  ki.
+IPA:       ˀu=sn̩dɔŋ   ˀi   ki
+Gloss:  NF=take.care  1pl  3pl
+POS:           der=v   pn   pn 
+
+Trans:	`The smoke coming from trucks is much polluted and if we inhale from those airs all of us will suffer from cough, cold, so all that we have to take care of it..'
+
+====================================================================================================
+
+           0    1       2    3    4
+Text:   hawa   ym   æmkam    i  ki.
+IPA:    hawa   m̩  ˀɛmkam   ˀi   ki
+Gloss:  when  NEG    need  1pl  3pl
+POS:       q  neg       v   pn   pn 
+
+Trans:	`then another teaching which we get is that for the animals, � we can kill animals for eating but we cannot do so just for fun�..'
+
+====================================================================================================
+
+               0    1          2     3     4    5    6              7          8         9    10   11          12          13    14   15
+Text:       sumar    i         ka   daw  dooh    i   ki           kitu  ki-phlang   ki-rnæm   ki   wa     soodong      sookun  yong   i.
+IPA:        sumar   ˀi         ka   daw   doʔ   ˀi   ki          ki=tu   ki=pʰlaŋ   ki=rnɛm   ki   wa       sodɔŋ       sokun   jɔŋ   ˀi
+Gloss:  take.care  1pl  3sg.F.acc   IRR  lose  1pl  3pl        PL=medl   PL=grass  PL=shrub  3pl  NMZ  throughout  throughout   GEN  1pl
+POS:            v   pn         pn  mood     v   pn   pn  clitic=deixis   clitic=n  clitic=n   pn  mod           n           n  case   pn 
+
+Trans:	`we have so many resources at present but if we don�t realize we are going to lose it, wealth that God and Motherland has given us if we didn�t take care of it we
+
+====================================================================================================
+
+               0          1     2    3      4          5    6
+Text:    ka-dhoh         ka    da  bam   bait         ko  ki.
+IPA:     ka=dhɔʔ         ka    da  bam  baʲt̪         kɔ   ki
+Gloss:     F=owl  3sg.F.acc  REAL  eat   IMM3  3sg.F.nom  3pl
+POS:    clitic=n         pn  mood    v    adv         pn   pn 
+
+Trans:	`Owl is one of the birds, owl we use to say that it is deaf and blind but it can kill many insects in the paddy field..'
+
+====================================================================================================
+
+                  0                   1    2       3        4          5
+Text:          lait               neitæ   ym   æmkam        o        ka.
+IPA:          laʲt̪            ne-ˀi=tɛ   m̩  ˀɛmkam       ˀɔ         ka
+Gloss:  free,escape          ABL-N=nvis  NEG    need  1sg.nom  3sg.F.acc
+POS:              v  case-clitic=deixis  neg       v       pn         pn 
+
+Trans:	`myself i never ate meat except the dry fish and hot water with rice along with salt, i never use more than that..'
+
+====================================================================================================
+
+                   0         1     2     3      4    5    6                 7     8      9    10   11                 12
+Text:      ki-khynnah  chynrang  læh,  nood   bait    i   ki          u-yachoh  nood   bait    i   ki           u-yadat.
+IPA:       ki=kʰn̩naʔ    ʧn̩raŋ   lɛʔ  noːt  baʲt̪   ˀi   ki         ˀu=ja-ʧɔʔ  noːt  baʲt̪   ˀi   ki          ˀu=ja-dat
+Gloss:  PL=little.one      male  also  dare   IMM3  1pl  3pl  NF=BEN-hit,punch  dare   IMM3  1pl  3pl  NF=BEN-hit,strike
+POS:         clitic=n         n   adv     v    adv   pn   pn      der=prefix-v     v    adv   pn   pn       der=prefix-v 
+
+Trans:	`i also remember that during our childhood we were very mischievous also we were outskirt people so we were not afraid to fight with Boys..'
+
+====================================================================================================
+
+           0     1    2    3    4     5              6
+Text:     la    da   ki    i   wa   ræm            itæ
+IPA:      la    da   ki   ˀi   wa   rɛm          ˀi=tɛ
+Gloss:    if  REAL  3pl  1pl  NMZ  lose         N=nvis
+POS:    conj  mood   pn   pn  mod     v  clitic=deixis 
+
+Trans:	`There is another game called moo kyndok played with stones, we used to put a target like 100 0r 200 to win, whoever losses will get slapped from their back by
+
+====================================================================================================
+
+                 0        1    2              3        4        5         6              7       8     9    10   11
+Text:           joh        o   ki      u-khynjoh    u-tan  chalait    pynyoo           kitæ     man    da  yap  ki.
+IPA:            ʤɔʔ       ˀɔ   ki     ˀu=kʰn̩ʤɔʔ   ˀu=tan  ʧalaʲt̪    pn̩-jo          ki=tɛ     man    da  jap   ki
+Gloss:  reach,catch  1sg.nom  3pl  NF=trytoreach  NF=pull  outside  CAUS-see        PL=nvis  become  REAL  die  3pl
+POS:              v       pn   pn          der=v    der=v      loc  prefix-v  clitic=deixis       v  mood    v   pn 
+
+Trans:	`There is another game called Khynjoh line where two circle were drawn one is bigger than the other, In the big circle we used to dance and suddenly jump to the
+
+====================================================================================================
+
+                0    1          2     3        4          5         6       7     8          9     10          11
+Text:        kattæ  toh  ka-kamram  yong      nga         ka  u-daloi.      tæ    da      biang  nong      kattæ.
+IPA:        kat-tɛ  tɔʔ  ka=kamram   jɔŋ       ŋa         ka  ˀu=daloj      tɛ    da       biaŋ   nɔŋ      kat-tɛ
+Gloss:     as-nvis   be     F=duty   GEN  1sg.top  3sg.F.acc   M=daloi    nvis  REAL  be.enough  conf     as-nvis
+POS:    adv-deixis    v   clitic=n  case       pn         pn  clitic=n  deixis  mood          v     q  adv-deixis 
+
+Trans:	`Like that is my duty as the Daloi. So it's enough, right?"
+
+====================================================================================================
+
+                0       1     2          3       4          5    6              7          8          9          10         11   12    13
+Text:        kattæ      tæ    da        dæm  pitiat         u.   oh           jied          u         oo    u-tynne         oo   wa  hap.
+IPA:        kat-tɛ      tɛ    da        dɛm  pitiat         ˀu   ˀo           ʤeːt         ˀu         ˀo   ˀu=tn̩ne         ˀo   wa   hap
+Gloss:     as-nvis    nvis  REAL  bend.down   while  3sg.M.nom   Oh  pickup,choose  3sg.M.nom  3sg.M.top  NF=before  3sg.M.top  NMZ  fall
+POS:    adv-deixis  deixis  mood          v       v         pn  exc              v         pn         pn    der=loc         pn  mod     v 
+
+Trans:	`like this he is bending and concentrating. Oh, he picks up one that had fallen (previously).'
+
+====================================================================================================
+
+          0          1                  2          3          4              5       6    7
+Text:    oh    pynchna             pynkit          u         ka          ka-tæ      tæ  kat
+IPA:     ˀo    pn̩-ʧna            pn̩-kɪt         ˀu         ka          ka=tɛ      tɛ  kat
+Gloss:   Oh  CAUS-make  CAUS-carry(sling)  3sg.M.nom  3sg.F.acc         F=nvis    nvis   as
+POS:    exc   prefix-v           prefix-v         pn         pn  clitic=deixis  deixis  adv 
+
+Trans:	`Oh, he's arranging and unloading it (the basket).'
+
+====================================================================================================
+
+           0      1       2         3          4          5
+Text:     ha  rdang      tæ      niad          u        oo.
+IPA:      ha   rdaŋ      tɛ     niaːt         ˀu         ˀo
+Gloss:   LOC   neck    nvis  rub,wipe  3sg.M.nom  3sg.M.top
+POS:    case      n  deixis         v         pn         pn 
+
+Trans:	`Oh he's pushing (unloading), still pushing. (he) has these clothes, a scarf and pack that is tied on his neck, so he pushes it.'
+
+====================================================================================================
+
+          0     1     2     3          4    5     6       7
+Text:    oh    da  kdoh   wan          u   ki    ha  rdang.
+IPA:     ˀo    da  kdɔʔ   wan         ˀu   ki    ha    rdaŋ
+Gloss:   Oh  REAL   tie  come  3sg.M.nom  3pl   LOC    neck
+POS:    exc  mood     v     v         pn   pn  case       n 
+
+Trans:	`Oh he re-ties it on his neck.'
+
+====================================================================================================
+
+                0     1     2     3          4          5              6           7       8       9      10      11         12    13       14    15         16
+Text:         u-wi    na   wan   tan          u        ka.          u-tai        u-wi    nang   kheit    soh  pitiat    u-kheit    hi   u-thap    hi          u
+IPA:         ˀu=wi    na   wan   tan         ˀu         ka         ˀu=taj       ˀu=wi     naŋ  kʰaʲt̪    sɔʔ  pitiat  ˀu=kʰaʲt̪    hi  ˀu=tʰap    hi         ˀu
+Gloss:       M=one   ABL  come  pull  3sg.M.nom  3sg.F.acc       M=distal       M=one    CONT    pick  fruit   while    NF=pick  EMPH   NF=put  EMPH  3sg.M.nom
+POS:    clitic=num  case     v     v         pn         pn  clitic=deixis  clitic=num  aspect       v      n       v      der=v  ints    der=v  ints         pn 
+
+Trans:	`.'
+
+====================================================================================================
+
+               0          1               2              3      4         5     6     7    8     9    10    11        12    13   14
+Text:           u         ka     ka-baisikil         ki-tai     le      ngut   wan    da  lai   wan   ki    ha   ka-luti  yong   ki
+IPA:           ˀu         ka      ka=bajskɪl         ki=taj     le       ŋut   wan    da  laj   wan   ki    ha   ka=luti   jɔŋ   ki
+Gloss:  3sg.M.nom  3sg.F.acc       F=bicycle      PL=distal  three  CL.human  come  REAL   go  come  3pl   LOC     F=way   GEN  3pl
+POS:           pn         pn  clitic=english  clitic=deixis    num      clsf     v  mood    v     v   pn  case  clitic=n  case   pn 
+
+Trans:	`ki pitiat*pyntiat (fill) ha kriih*kriah" "dæp leitæ padet (throw) u.'
+
+====================================================================================================
+
+                   0    1     2        3          4          5
+Text:      u-khynnah   oh    da     siaw          u        oo.
+IPA:      ˀu=kʰn̩naʔ   ˀo    da     siaw         ˀu         ˀo
+Gloss:  M=little.one   Oh  REAL  whistle  3sg.M.nom  3sg.M.top
+POS:        clitic=n  exc  mood        v         pn         pn 
+
+Trans:	`.'
+
+====================================================================================================
+
+            0       1                     2     3          4          5          6      7          8     9         10
+Text:      dæp      tæ            lipyn-uiñ   wan          u         ka  ka-tupri.    rah          u    wa  ka-tupri
+IPA:       dɛp      tɛ           li-pn̩-ˀuʲɲ   wan         ˀu         ka   ka=tupri    raʔ         ˀu    wa  ka=tupri
+Gloss:    CPLV    nvis  DUR-CAUS-return.back  come  3sg.M.nom  3sg.F.acc      F=hat  carry  3sg.M.nom  COMT     F=hat
+POS:    aspect  deixis       prefix-prefix-v     v         pn         pn   clitic=n      v         pn  conj  clitic=n 
+
+Trans:	After that he returned the hat. He brought the hat. `tæ lipynuin wan u ka ka tupri"-return.back the cap.'
+
+====================================================================================================
+
+                   0    1        2     3     4               5
+Text:         libooh   ki      nga   cha  yong      ki-sister,
+IPA:          li-boʔ   ki       ŋa    ʧa   jɔŋ       ki=sistar
+Gloss:  DUR-put,keep  3pl  1sg.top   ALL   GEN  PL=sister(nun)
+POS:        prefix-v   pn       pn  case  case  clitic=english 
+
+Trans:	`so, then, after my mother gave birth to me at night she died in the morning. After she died and was buried, then they put (sent) me to the place of the sisters.'
+
+====================================================================================================
+
+                      0        1    2
+Text:         lipynkhai        o   ki
+IPA:        li-pn̩-kʰaj       ˀɔ   ki
+Gloss:  DUR-CAUS-get.up  1sg.nom  3pl
+POS:    prefix-prefix-v       pn   pn 
+
+Trans:	`when we came outside, then Mr. Joseph, who directed that there is one Bhoi child so are they sleeping there or not, did I go, did I pick them up.'
+
+====================================================================================================
+
+              0     1              2           3        4    5        6         7    8       9        10    11    12       13       14    15
+Text:        wei    re          dæpte    pynhikai     skur   ki      nga    hadooh   wa  yathoh        o  hawa   dap        o   arphaw  snæm
+IPA:       we-ˀi    rɛ         dɛp-te   pn̩-hikaj     skur   ki       ŋa    ha-doʔ   wa  jatʰɔʔ       ˀɔ  hawa   dap       ˀɔ  ˀarpʰaw  snɛm
+Gloss:  COMT-1pl   any     CPLV-mprox  CAUS-teach   school  3pl  1sg.top  LOC-when  NMZ   marry  1sg.nom  when  fill  1sg.nom   twenty  year
+POS:     conj-pn  ints  aspect-deixis    prefix-v  english   pn       pn  case-loc  mod       v       pn     q     v       pn      num     n 
+
+Trans:	`when lazy, after that the sisters say: and she doesn't go to school, I say, and not. after that they (help) teach school (to) me until I got married when I was 20
+
+====================================================================================================
+
+                    0              1          2          3
+Text:           dæptæ         pyndæp          u         ka
+IPA:           dɛp-tɛ        pn̩-dɛp         ˀu         ka
+Gloss:      CPLV-nvis      CAUS-CPLV  3sg.M.nom  3sg.F.acc
+POS:    aspect-deixis  prefix-aspect         pn         pn 
+
+Trans:	`when Father Chinato arrive, Father Chinato, after that he dig that, cause to become pond, when becoming pond, from then, so the arrival only Father Mawrie
+
+====================================================================================================
+
+                    0    1           2        3       4        5          6             7        8
+Text:         hei-por   wa       katni      nga     man        o         ka     u-rangbah   chnong
+IPA:        he-ˀi=pɔr   wa      kat-ni       ŋa     man       ˀɔ         ka     ˀu=raŋbaʔ     ʧnɔŋ
+Gloss:     LOC-N=time  NMZ     as-prox  1sg.top  become  1sg.nom  3sg.F.acc     M=headman  village
+POS:    case-clitic=n  mod  adv-deixis       pn       v       pn         pn  clitic=khasi        n 
+
+Trans:	`so I am honored... what's his name? Hairam, Hiriam, with honor to Mr. Hiriam who wants to learn especially of the history at this time, so like this/now I
+
+====================================================================================================
+
+         0              1            2         3    4    5    6        7    8    9     10         11            12
+Text:    wa          ki-ni   ki-mookhap      tang   wa   ki  læh     file   ki    i    da         ka     mokotduma
+IPA:     wa          ki=ni    ki=mokʰap       taŋ   wa   ki  lɛʔ     faʲl   ki   ˀi    da         ka    mɔkɔt-duma
+Gloss:  NMZ        PL=prox   PL=Mookhap  but,even  NMZ  3pl   do     file  3pl  1pl  INST  3sg.F.acc  file-tobacco
+POS:    mod  clitic=deixis  clitic=name      conj  mod   pn    v  english   pn   pn  case         pn           v-n 
+
+Trans:	`I said so mister there is this case with us so we didn�t file a case with them but the mookhap filed a case.'
+
+====================================================================================================
+
+         0    1     2     3                   4     5     6       7     8             9       10   11         12   13    14               15
+Text:   kat   ym    æm    re           u-li-apil    æm    re   u-lai   læh     mokotduma      tæ  jop         ko    i    la           arsein
+IPA:    kat   m̩   ˀɛm    rɛ          ˀu=li-apil   ˀɛm    rɛ  ˀu=laj   lɛʔ    mɔkɔt-duma      tɛ  ʤɔp         kɔ   ˀi    na         ˀar-seʲn
+Gloss:   as  NEG  have   any       NF=DUR-appeal  have   any   NF=go  also  file-tobacco    nvis  win  3sg.F.nom  1pl   ABL  two-time,action
+POS:    adv  neg     v  ints  der=prefix-english     v  ints   der=v   adv           v-n  deixis    v         pn   pn  case            num-n 
+
+Trans:	`since we didn�t appeal nor filed a case so they won over us twice.'
+
+====================================================================================================
+
+          0         1          2          3     4          5      6     7      8      9
+Text:   yoh        de          u         oo    ya          u  daiñ  dein  daiñ   praw
+IPA:    jɔʔ        de         ˀu         ˀo    ja         ˀu   daʲɲ   den   daʲɲ   praw
+Gloss:  get  neg.ints  3sg.M.nom  3sg.M.top   BEN  3sg.M.nom    cut  back    cut  stick
+POS:      v       adv         pn         pn  case         pn      v   loc      v      n 
+
+Trans:	` they only came to cultivate in the area,at the same time I thought,truly,the plots of land are distributed and after building the houses it us means that we cannot
+
+====================================================================================================
+
+           0       1        2          3           4              5          6          7    8              9       10      11         12        13       14
+Text:   daloi   chwas   sammon         ka        u-wi           u-tu         ka          u   wa           u-tu  ponghi      ni       u-ma      kham       o.
+IPA:    daloj    ʧwas   sammɔn         ka       ˀu=wi          ˀu=tu         ka         ˀu   wa          ˀu=tu   pɔŋhi      ni      ˀu=ma      kʰam       ˀɔ
+Gloss:  daloi  Chawas   summon  3sg.F.acc       M=one         M=medl  3sg.F.acc  3sg.M.nom  NMZ         M=medl  Ponghi    prox    M=hon.M  fistfull  1sg.nom
+POS:        n    name  english         pn  clitic=num  clitic=deixis         pn         pn  mod  clitic=deixis    name  deixis  clitic=pn         n       pn 
+
+Trans:	`so them we summoned the daloi(chief of elaka), at the time mr chawas was the daloi, he summon my relative(uncle) mr ponghi.'
+
+====================================================================================================
+
+                0    1    2     3      4
+Text:           u   ki   ki    la  rwai.
+IPA:           ˀu   ki   ki    na   rwaj
+Gloss:  3sg.M.nom  3pl  3pl   ABL   sing
+POS:           pn   pn   pn  case      v 
+
+Trans:	`so after he summoned him,because I instigate him to go ahead and cut the trees when even people jus randomly cut the trees, we will see what happen. So wen
+
+====================================================================================================
+
+               0    1          2    3     4          5           6    7    8
+Text:       tang   wa          u   ki   wan        ræp       riang    i   ki
+IPA:         taŋ   wa         ˀu   ki   wan        rɛp        riaŋ   ˀi   ki
+Gloss:  but,even  NMZ  3sg.M.nom  3pl  come  cultivate  plant.type  1pl  3pl
+POS:        conj  mod         pn   pn     v          v           n   pn   pn 
+
+Trans:	`I slapped them because there talked stupidly, so god truly after I slapped them, now they respect and love me because they realized that I speak of the truth, I
+
+====================================================================================================
+
+             0     1        2          3        4
+Text:     yooh    ya      roh         ko     nga.
+IPA:       joʔ    ja      rɔʔ         kɔ       ŋa
+Gloss:  exceed   BEN  be.much  3sg.F.nom  1sg.top
+POS:         v  case        v         pn       pn 
+
+Trans:	`so at that time I called a public meeting again, so I said we should think about how to improve raliang village, it has become a garbage place for people,a spitting
+
+====================================================================================================
+
+            0      1    2          3          4          5    6      7       8         9             10                  11   12    13   14          15
+Text:       tæ    dih  yoo          u         ka          u   wa  chæt,      tæ  u-sñiaw       pynbein               neitæ   wa    da  yoh      kattæ.
+IPA:        tɛ    diʔ   jo         ˀu         ka         ˀu   wa    ʧɛt      tɛ  ˀu=sɲiaw       pn̩-ben            ne-ˀi=tɛ   wa    da  jɔʔ      kat-tɛ
+Gloss:    nvis  drink  see  3sg.M.nom  3sg.F.acc  3sg.M.nom  NMZ   cook    nvis  NF=sense  CAUS-willing          ABL-N=nvis  NMZ  REAL  get     as-nvis
+POS:    deixis      v    v         pn         pn         pn  mod      v  deixis     der=v      prefix-v  case-clitic=deixis  mod  mood    v  adv-deixis 
+
+Trans:	`after getting 1 lakh 50 thousand from mr ripil,ater 4-5 months, we got the check, we were very happy.'
+
+====================================================================================================
+
+               0        1     2      3    4    5    6    7     8
+Text:     ka-moo  khyndaw    ha   leih  yoo   ym  læh   ki  phi.
+IPA:      ka=moo  kʰn̩daw    ha   leʲʔ   jo   m̩  lɛʔ   ki   pʰi
+Gloss:   F=stone    earth   LOC  white  see  NEG   do  3pl   2pl
+POS:    clitic=n        n  case    adj    v  neg    v   pn    pn 
+
+Trans:	`ok, I will give you another 1 lakh so you can do the fencing.'
+
+====================================================================================================
+
+            0            1          2          3       4     5    6        7     8       9    10    11     12              13
+Text:      man        pylla          u         ka      tæ  khih   wa  chitein  yee,      tæ   ym    æm    mut        ka-club.
+IPA:       man       pn̩-la         ˀu         ka      tɛ  kʰiʔ   wa    ʧiten    je      tɛ   m̩   ˀɛm    mut         ka=klɔb
+Gloss:  become      CAUS-if  3sg.M.nom  3sg.F.acc    nvis  work  NMZ     half  able    nvis  NEG  have  means          F=club
+POS:         v  prefix-conj         pn         pn  deixis     v  mod      num     v  deixis  neg     v      v  clitic=english 
+
+Trans:	`when he runs the money, he used only half the money and the club didn�t improve it is still in bad condition.'
+
+====================================================================================================
+
+             0          1          2    3        4          5            6     7        8     9              10    11        12         13
+Text:       nga         ka          u   wa  rongbah   i-chnong        thooh   ram        o    la           u-tu  dkha  syngkhon        oo,
+IPA:         ŋa         ka         ˀu   wa   raŋbaʔ    ˀi=ʧnɔŋ         tʰoʔ   ram       ˀɔ    na          ˀu=tu  dkʰa   sŋ̩kʰɔn         ˀo
+Gloss:  1sg.top  3sg.F.acc  3sg.M.nom  NMZ  headman  N=village  find,search  loan  1sg.nom   ABL         M=medl  Dkha  Syngkhon  3sg.M.top
+POS:         pn         pn         pn  mod    khasi   clitic=n            v     v       pn  case  clitic=deixis  name      name         pn 
+
+Trans:	`I as the headman went asking for a loan from Dkha syngkon
+
+====================================================================================================
+
+          0       1     2              3    4         5      6     7           8    9    10   11
+Text:     da     dæp  tip,            itæ  phi    lipait     sæ  yong          ih   wa    i  ki,
+IPA:      da     dɛp   tɪp          ˀi=tɛ  pʰi  li-paʲt̪     sɛ   jɔŋ         ˀiʔ   wa   ˀi   ki
+Gloss:  REAL    CPLV  know         N=nvis  2pl  DUR-look  C.TAG   GEN  ripe,right  NMZ  1pl  3pl
+POS:    mood  aspect     v  clitic=deixis   pn  prefix-v      q  case           v  mod   pn   pn 
+
+Trans:	`I said ok, so I asked the vice chairman, and he said that they will give.so we decide to go and take a look at the land.'
+
+====================================================================================================
+
+                           0          1          2      3     4          5    6    7          8    9        10        11        12    13       14        15
+Text:                 mynyooh          u         mi   smat   tip          u   wa  yoo          u   ym      hoi       bah    saphah     e   battai     ngut.
+IPA:                  mn̩-joʔ         ˀu         mi   smat   tɪp         ˀu   wa   jo         ˀu   m̩      hɔj       baʔ   sa-pʰaʔ    ˀe    bataj       ŋut
+Gloss:  after,irrealis-exceed  3sg.M.nom  2sg.M.nom  early  know  3sg.M.nom  NMZ  see  3sg.M.nom  NEG  be.well  be.great  only-ask  give  explain  CL.human
+POS:                   mood-v         pn         pn    adv     v         pn  mod    v         pn  neg        v         v    conj-v     v        v      clsf 
+
+Trans:	`then I said, okay then, if you vcan give us the loan then well and good. Its even better if we could procure a loan from one of our own
+
+====================================================================================================
+
+         0    1         2            3     4    5             6     7     8        9          10   11     12    13      14                15      16
+Text:   ong   wa      che,        thooh    pa   wa         u-kam     e    ya      nga          u   wa    par   noh      tæ             li-æh    dæp.
+IPA:    ˀɔŋ   wa        ʧe         tʰoʔ    pa   wa        ˀu=kam    ˀe    ja       ŋa         ˀu   wa    par   nɔʔ      tɛ            li-ˀɛʔ     dɛp
+Gloss:  say  NMZ  be.light  find,search    by  NMZ  NF=like,want  give   BEN  1sg.top  3sg.M.nom  NMZ  crawl  IMM1    nvis  DUR-be.difficult    CPLV
+POS:      v  mod         v            v  conj  mod         der=v     v  case       pn         pn  mod      v   adv  deixis          prefix-v  aspect 
+
+Trans:	`so he said, I cant just give you the money caused you asked.'
+
+====================================================================================================
+
+                   0          1          2               3      4          5                6       7     8    9              10
+Text:           ka-ni        ka,         ka         u-thooh   thaw      myntu       li-ya-thoh     tæt    æm  lai          kitæ.
+IPA:            ka=ni         ka         ka         ˀu=tʰoʔ   tʰaw      mn̩tu       li-ja-tʰɔʔ     tɛt   ˀɛm  laj          ki=tɛ
+Gloss:         F=prox  3sg.F.acc  3sg.F.acc  NF=find,search  place  today,now    DUR-BEN-write     end  have   go        PL=nvis
+POS:    clitic=deixis         pn         pn           der=v      n        adv  prefix-prefix-v  clitic     v    v  clitic=deixis 
+
+Trans:	`so I said, malik if you need me to go to saphai , I have this work I need to finish (signing of the land), let me go there first.'
+
+====================================================================================================
+
+            0     1       2             3       4           5          6          7         8     9    10     11
+Text:      man    da     man        kamtæ,     tæ,   pynchitom         ka          u    hadein   dap  chi  snæm.
+IPA:       man    da     man        kam-tɛ      tɛ   pn̩-ʧitɔm         ka         ˀu    ha-den   dap   ʧi   snɛm
+Gloss:  become  REAL  become  as,like-nvis    nvis  CAUS-fever  3sg.F.acc  3sg.M.nom  LOC-back  fill  set   year
+POS:         v  mood       v    adv-deixis  deixis    prefix-n         pn         pn  case-loc     v  num      n 
+
+Trans:	`afer that it caused us trouble after a year.'
+
+====================================================================================================
+
+                     0              1      2      3      4          5        6        7        8           9         10
+Text:          ka-thooh           u-ni  paisa  baroh  paisa          u      nga   chnong  pyllang         mar     katnu
+IPA:            ka=tʰoʔ          ˀu=ni  pajsa  warɔʔ  pajsa         ˀu       ŋa     ʧnɔŋ   pl̩laŋ         mar    kat-nu
+Gloss:  RES=find,search         M=prox  money    all  money  3sg.M.nom  1sg.top  village   gather  belongings  as-which
+POS:              der=v  clitic=deixis      n    num      n         pn       pn        n        v           n     adv-n 
+
+Trans:	`and manipulating them, this person was causing disturbance in the peaceful society, so I started thinking, what can I do? To pay him back also I don�t have
+
+====================================================================================================
+
+                  0    1        2         3     4        5    6        7     8          9
+Text:    pynpyrkhat   ki     nga,    ka-kam    ya      nga   pu   chnong   noh  sahteiñ.
+IPA:    pn̩-pr̩kʰat   ki       ŋa    ka=kam    ja       ŋa   pu     ʧnɔŋ   nɔʔ    saʔteʲn
+Gloss:   CAUS-think  3pl  1sg.top  RES=work   BEN  1sg.top  not  village  IMM1    pending
+POS:       prefix-v   pn       pn     der=v  case       pn  neg        n   adv          v 
+
+Trans:	`so it made me think, and then the some members of the village and children of the village forced me to stay, and I thought that I still have many work that are
+
+====================================================================================================
+
+              0    1        2          3          4       5              6          7              8            9     10      11         12       13
+Text:    ki-thaw   ki      bha          u         ka    bait          ka-ni        ka,          ka-ni       byntai  yong  khloor         mi  chnong.
+IPA:     ki=tʰaw   ki      bha         ˀu         ka   baʲt̪          ka=ni         ka          ka=ni     bn̩ta-ˀi   jɔŋ   kʰlor         mi     ʧnɔŋ
+Gloss:  PL=place  3pl  be.good  3sg.M.nom  3sg.F.acc  direct         F=prox  3sg.F.acc         F=prox  purpose-1pl   GEN    star  2sg.M.nom  village
+POS:    clitic=n   pn        v         pn         pn       v  clitic=deixis         pn  clitic=deixis         n-pn  case       n         pn        n 
+
+Trans:	`after that I held a general meeting of the six community, I was the chairman, then I sorted out all the issues, the land issues.'
+
+====================================================================================================
+
+            0        1         2          3    4    5     6        7
+Text:    awri  sakhiet  nangkong        mih    i  ki,    na  muleih.
+IPA:    ˀawri  sakʰiat    nŋ̩kɔŋ        miʔ   ˀi   ki    na   muleʲʔ
+Gloss:  argue  be.true  be.first  bring.out  1pl  3pl   ABL   Muleih
+POS:        v        v         v          v   pn   pn  case     name 
+
+Trans:	`after we divided the land(6 communities), a conflict arise from the community mulieh.'
+
+====================================================================================================
+
+             0     1      2       3     4         5       6           7     8              9      10   11         12     13
+Text:      nga,    sa     ma     dæp    sa  ka-surok  psiang        ymtæ    ya         u-dhun    bha    i         ka    sæ,
+IPA:         ŋa    sa     ma     dɛp    sa  ka=surɔk   psiaŋ       m̩-tɛ    ja        ˀu=dhun    bha   ˀi         ka     sɛ
+Gloss:  1sg.top  only  hon.M    CPLV  only    F=road     tar    NEG-nvis   BEN  NF=be.pleased  INTS1  1pl  3sg.F.acc  C.TAG
+POS:         pn  conj     pn  aspect  conj  clitic=n       n  neg-deixis  case          der=v    adv   pn         pn      q 
+
+Trans:	`whatever I have in mind I have achieved, the only thing that is left is to get tar roads, if that is accomplished too then I will be very pleased.'
+
+====================================================================================================
+
+            0     1     2    3            4         5     6     7       8       9        10   11        12   13         14       15
+Text:       tæ   ban    hi   ki          sei     tylli    æm    ha  u-ong,      tæ     bein   ki      tang   wa          u     nga,
+IPA:        tɛ   ban    hi   ki           se     tl̩li   ˀɛm    ha  ˀu=ˀɔŋ      tɛ      ben   ki       taŋ   wa         ˀu       ŋa
+Gloss:    nvis  than  EMPH  3pl  be.doubtful  CL.piece  have   LOC  NF=say    nvis  willing  3pl  but,even  NMZ  3sg.M.nom  1sg.top
+POS:    deixis  conj  ints   pn            v      clsf     v  case   der=v  deixis        v   pn      conj  mod         pn       pn 
+
+Trans:	`they talked about me, but what can I say about that.'
+
+====================================================================================================
+
+             0     1          2         3     4              5              6          7    8    9       10
+Text:    chnong    ya  ka-chnong  raliang,     e       khublei,        khublei    shiboon    i   ki  waroh.
+IPA:       ʧnɔŋ    ja    ka=ʧnɔŋ    raliaŋ    ˀe         kʰuble         kʰuble      ʃibun   ˀi   ki   warɔʔ
+Gloss:  village   BEN  F=village   Raliang  give  thanks(Khasi)  thanks(Khasi)  very.much  1pl  3pl     all
+POS:          n  case   clitic=n         n     v              v              v      khasi   pn   pn     num 
+
+Trans:	`so with that, I give thanks to you, thank you For this interview as the village headman, thanks, thank you all very much
+
+====================================================================================================
+
+           0          1     2     3    4      5     6      7    8     9            10   11         12
+Text:     mut      ka-ri  pnar  yong    i  waroh    da  burom   ki    da     keiñkor    i         oo
+IPA:      mut      ka=ri  pnar   jɔŋ   ˀi  warɔʔ    da  burɔm   ki    da     keʲɲ-kɔr   ˀi         ˀo
+Gloss:  means  F=country  Pnar   GEN  1pl    all  REAL  honor  3pl  REAL  count-honor  1pl  3sg.M.top
+POS:        v   clitic=n     n  case   pn    num  mood      v   pn  mood          v-v   pn         pn 
+
+Trans:	`Why do the Pnar people give him so much honor and respect.'
+
+====================================================================================================
+
+                   0          1          2          3    4     5         6    7           8            9           10        11       12        13
+Text:           ka-ni        ka,        ka,         ka   wa  khut   pyrtuit   ki       katni     ka-kiang  nangbah...  memoriel     fund   society
+IPA:            ka=ni         ka         ka         ka   wa  kʰut  pr̩tuʲt̪   ki      kat-ni      ka=kiaŋ      naŋbaʔ  mɛmoriɛl      fan  sosajɛti
+Gloss:         F=prox  3sg.F.acc  3sg.F.acc  3sg.F.acc  NMZ  call      name  3pl     as-prox      F=Kiang     Nangbah  memorial     fund   society
+POS:    clitic=deixis         pn         pn         pn  mod     v         n   pn  adv-deixis  clitic=name        name   english  english   english 
+
+Trans:	`The elders of Jowai, in order to build, formed this (committee) called/named the Kiang Nangbah Memorial Fund Society.'
+
+====================================================================================================
+
+               0     1          2     3     4    5         6              7         8    9         10        11   12         13   14
+Text:           u    ya      ka-ri  pnar  yong    i       wei       hei-jooh     i-por   wa      u-su  kylliang    i         oo  toh
+IPA:           ˀu    ja      ka=ri  pnar   jɔŋ   ˀi     we-ˀi      he-ˀi=ʤoʔ    ˀi=pɔr   wa     ˀu=su   kl̩liaŋ   ˀi         ˀo  tɔʔ
+Gloss:  3sg.M.nom   BEN  F=country  Pnar   GEN  1pl  COMT-1pl  LOC-N=be.same    N=time  NMZ  NF=repay     repay  1pl  3sg.M.top   be
+POS:           pn  case   clitic=n     n  case   pn   conj-pn  case-clitic=v  clitic=n  mod     der=v         v   pn         pn    v 
+
+Trans:	`In respect to Mr. Kiang Nangbah, we daily celebrate the freedom of our Pnar people and also repay him, ok.'
+
+====================================================================================================
+
+         0     1          2      3    4          5         6              7         8                 9         10       11
+Text:     i    da      pynæm  burom    i         oo       wei       hei-jooh     i-por             manko   ka-sngi  yambru.
+IPA:     ˀi    da    pn̩-ˀɛm  burɔm   ˀi         ˀo     we-ˀi      he-ˀi=ʤoʔ    ˀi=pɔr            man-kɔ    ka=sŋi   jambru
+Gloss:  1pl  REAL  CAUS-have  honor  1pl  3sg.M.top  COMT-1pl  LOC-N=be.same    N=time  become-3sg.F.nom     F=day    mourn
+POS:     pn  mood   prefix-v      v   pn         pn   conj-pn  case-clitic=v  clitic=n              v-pn  clitic=n        v 
+
+Trans:	`until now, these days, we give him respect every 30th of December and also mourn
+
+====================================================================================================
+
+            0           1    2          3    4       5          6
+Text:   ha-o,       kattæ  toh         ka    i  kammon      kam..
+IPA:     haˀɔ      kat-tɛ  tɔʔ         ka   ˀi  kammɔn        kam
+Gloss:    yes     as-nvis   be  3sg.F.acc  1pl     how  like,want
+POS:     conf  adv-deixis    v         pn   pn       q          v 
+
+Trans:	`Yes, that's right we how as...'
+
+====================================================================================================
+
+          0                1         2           3        4    5    6         7          8    9         10             11
+Text:     æm           hei-wi     i-por        i-wi   chnong    i   wa   pyrtuit         u,    i   pyrtuit  i-rangjyrtæh.
+IPA:     ˀɛm         he-ˀi=wi    ˀi=pɔr       ˀi=wi     ʧnɔŋ   ˀi   wa  pr̩tuʲt̪         ˀu   ˀi  pr̩tuʲt̪   ˀi=raŋʤr̩tɛʔ
+Gloss:  have        LOC-N=one    N=time       N=one  village  1pl  NMZ      name  3sg.M.nom  1pl      name   N=Rangjyrtæh
+POS:       v  case-clitic=num  clitic=n  clitic=num        n   pn  mod         n         pn   pn         n    clitic=name 
+
+Trans:	`there was once a village named Rangjyrtæh..'
+
+====================================================================================================
+
+                 0     1          2         3     4          5          6    7            8    9            10
+Text:       u-singh    æm          u    ka-lok  yong         oo         ka   wa    u-pyrtuit  toh      ka-lak.
+IPA:         ˀu=siŋ   ˀɛm         ˀu    ka=lɔk   jɔŋ         ˀo         ka   wa  ˀu=pr̩tuʲt̪  tɔʔ       ka=lak
+Gloss:      M=Singh  have  3sg.M.nom  F=friend   GEN  3sg.M.top  3sg.F.acc  NMZ       M=name   be        F=Lak
+POS:    clitic=name     v         pn  clitic=n  case         pn         pn  mod     clitic=n    v  clitic=name 
+
+Trans:	`Singh had a girlfriend whose name was Lak..'
+
+====================================================================================================
+
+               0          1    2      3    4        5    6          7
+Text:        yut         u,   wa  kdong   ki    pulit   ki        oo.
+IPA:         jut         ˀu   wa   kdɔŋ   ki    pulɪt   ki         ˀo
+Gloss:  run.away  3sg.M.nom  NMZ  chase  3pl   police  3pl  3sg.M.top
+POS:           v         pn  mod      v   pn  english   pn         pn 
+
+Trans:	`So there is one thief who is stealing in that (Singh's) village, then he ran since the police were chasing him..'
+
+====================================================================================================
+
+               0     1    2          3               4
+Text:    u-sdang   noh    i         ka         ka-skur
+IPA:     ˀu=sdaŋ   nɔʔ   ˀi         ka         ka=skur
+Gloss:  NF=begin  IMM1  1pl  3sg.F.acc        F=school
+POS:       der=v   adv   pn         pn  clitic=english 
+
+Trans:	`So the first thing we decided was, whatever it is, whether we have money or not, we should start one school .'
+
+====================================================================================================
+
+                    0     1         2        3                   4     5            6         7    8          9    10   11
+Text:          ka-skur    ha   ka-yung     club             hei-tai    ha  dongmihsngi       dei   wa    chimwai    i   ki
+IPA:           ka=skur    ha    ka=juŋ     klɔb           he-ˀi=taj    ha    dɔŋmiʔsŋi     de-ˀi   wa    ʧɪm-waj   ˀi   ki
+Gloss:        F=school   LOC    F=home     club        LOC-N=distal   LOC  Dongmihsngi  INST-1pl  NMZ  take-open  1pl  3pl
+POS:    clitic=english  case  clitic=n  english  case-clitic=deixis  case         name   case-pn  mod        v-v   pn   pn 
+
+Trans:	`The school-goers at that time were 20 students. We started our school by renting Dongmihsngi community hall.'
+
+====================================================================================================
+
+            0     1    2          3             4           5     6        7               8     9        10
+Text:      man   noh    i         ka         hapoh    tyngkong  yung    mane,     ka-basement  yung     mane
+IPA:       man   nɔʔ   ˀi         ka        ha-pɔʔ      tŋ̩kɔŋ   juŋ     mane       ka=besmɛn   juŋ     mane
+Gloss:  become  IMM1  1pl  3sg.F.acc  LOC-under,in  wood.floor  home  worship      F=basement  home  worship
+POS:         v   adv   pn         pn      case-loc           n     n        v  clitic=english     n        v 
+
+Trans:	`so we moved to the basement of our church.'
+
+====================================================================================================
+
+          0            1          2    3              4     5       6         7     8        9          10
+Text:     wa        u-bah    chaniah    i      yei-ktein  phi,      tæ   u-sdang   noh        o         ka
+IPA:      wa       ˀu=baʔ    ʧa-niaʔ   ˀi    je-ˀi=kteʲn   pʰi      tɛ   ˀu=sdaŋ   nɔʔ       ˀɔ         ka
+Gloss:  COMT  NF=be.great  ALL-place  1pl     BEN-N=word   2pl    nvis  NF=begin  IMM1  1sg.nom  3sg.F.acc
+POS:    conj        der=v     case-n   pn  case-clitic=n    pn  deixis     der=v   adv       pn         pn 
+
+Trans:	`With the support of our planning secretary, he said "they told you, Mr. Chaniah with their word, so I began it.'
+
+====================================================================================================
+
+            0    1          2     3              4         5          6    7        8
+Text:   sdang    i         ka    ha          ka-ni   ka-snæm         ka   wa    u-wan
+IPA:     sdaŋ   ˀi         ka    ha          ka=ni   ka=snɛm         ka   wa   ˀu=wan
+Gloss:  begin  1pl  3sg.F.acc   LOC         F=prox    F=year  3sg.F.acc  NMZ  NF=come
+POS:        v   pn         pn  case  clitic=deixis  clitic=n         pn  mod    der=v 
+
+Trans:	`We also have a computer room but still we could not start with our computer class, hopefully we can start it from next year..'
+
+====================================================================================================
+
+             0    1          2     3            4                   5     6        7    8          9     10     11
+Text:    u-chna    i         ka    ha  mendrukuñ,              nei-tæ   wan   u-chna    i         ka    ha  dellu
+IPA:     ˀu=ʧna   ˀi         ka    ha    mɛndrukuɲ            ne-ˀi=tɛ   wan   ˀu=ʧna   ˀi         ka    ha  dɛllu
+Gloss:  NF=make  1pl  3sg.F.acc   LOC   Mendrukuñ          ABL-N=nvis  come  NF=make  1pl  3sg.F.acc   LOC  Dellu
+POS:      der=v   pn         pn  case         name  case-clitic=deixis     v    der=v   pn         pn  case   name 
+
+Trans:	`i had to make helipads in many places namely Zigsag, Mendrukuñ and Dellu..'
+
+====================================================================================================
+
+            0         1         2     3        4          5     6        7       8     9         10       11         12       13             14     15         16
+Text:       tæ    hynrei      booh   noh        o        ka,    da    load,     man    da      booh        o        ka,  mylliñ          dæptæ  pdung         ko
+IPA:        tɛ     hn̩re       boʔ   nɔʔ       ˀɔ         ka    da      lod     man    da       boʔ       ˀɔ         ka   ml̩liɲ         dɛp-tɛ   pduŋ         kɔ
+Gloss:    nvis  but.also  put,keep  IMM1  1sg.nom  3sg.F.acc  REAL     load  become  REAL  put,keep  1sg.nom  3sg.F.acc   forget      CPLV-nvis  burst  3sg.F.nom
+POS:    deixis      conj         v   adv       pn         pn  mood  english       v  mood         v       pn         pn        v  aspect-deixis      v         pn 
+
+Trans:	`so i loaded my gun and instead of shooting, i just kept it aside and then i forgot it. After sometimes the gun burst.'
+
+====================================================================================================
+
+             0     1      2          3      4          5        6                   7                   8
+Text:      man    da  pdung        ko,   siat         ko      nga              hei-ni             chei-ni
+IPA:       man    da   pduŋ         kɔ   siɛt         kɔ       ŋa            he-ˀi=ni            ʧe-ˀi=ni
+Gloss:  become  REAL  burst  3sg.F.nom  shoot  3sg.F.nom  1sg.top          LOC-N=prox          ALL-N=prox
+POS:         v  mood      v         pn      v         pn       pn  case-clitic=deixis  case-clitic=deixis 
+
+Trans:	`when it burst, it hit me, here, piercing my leg..'
+
+====================================================================================================
+
+                0        1
+Text:           u      nga
+IPA:           ˀu       ŋa
+Gloss:  3sg.M.nom  1sg.top
+POS:           pn       pn 
+
+Trans:	`and i still want to work for him in the days to come till the day that God will call me to his place..'
+
+====================================================================================================
+
+          0        1     2           3    4        5     6     7    8    9                   10
+Text:     na  priang,    na   ki-chnong   wa      jan   wan  yang   ki    i              hei-tu
+IPA:      na    priaŋ    na     ki=ʧnɔŋ   wa      ʤan   wan   jaŋ   ki   ˀi            he-ˀi=tu
+Gloss:   ABL   Priang   ABL  PL=village  NMZ  be.near  come  wait  3pl  1pl          LOC-N=medl
+POS:    case     name  case    clitic=n  mod        v     v     v   pn   pn  case-clitic=deixis 
+
+Trans:	`from that surrounding area like iooksi, Priang and the other adjacent areas..'
+
+====================================================================================================
+
+                   0            1        2          3        4       5              6         7    8       9     10   11       12
+Text:         dei-bor         tdæh        o        ka.    katwa    kiat          ka-tæ   ka-bru,   ah     bei    da  yap      o!!
+IPA:        de-ˀi=bɔr         tdɛʔ       ˀɔ         ka   kat-wa    kiat          ka=tɛ    ka=bru  ˀaʔ     bej    da  jap       ˀɔ
+Gloss:   INST-N=power  pull.up,off  1sg.nom  3sg.F.acc   as-NMZ  liquor         F=nvis  F=person  cut  mother  REAL  die  1sg.nom
+POS:    case-clitic=n            v       pn         pn  adv-mod       n  clitic=deixis  clitic=n    v       n  mood    v       pn 
+
+Trans:	`i tried to pull it out with force. after hearing that woman shouted Ah!! Mom, i am dying..'
+
+====================================================================================================
+
+             0    1    2    3            4          5       6
+Text:       tæ  lai   ki   ki     we-i-toh   chajrong  loom..
+IPA:        tɛ  laj   ki   ki    we-ˀi=tɔʔ    ʧa-ʤrɔŋ     lom
+Gloss:    nvis   go  3pl  3pl  COMT-ACT=be  ALL-above    hill
+POS:    deixis    v   pn   pn   conj-der=v     case-v       n 
+
+Trans:	`They are going to the hilltop...'
+
+====================================================================================================
+
+          0          1    2              3         4      5             6                7
+Text:   yoo          u   ki          ki-tu    ki-soh    næ,         hapoh          kriah..
+IPA:     jo         ˀu   ki          ki=tu    ki=sɔʔ     nɛ        ha-pɔʔ            kriaʔ
+Gloss:  see  3sg.M.nom  3pl        PL=medl  PL=fruit  D.TAG  LOC-under,in  basket(general)
+POS:      v         pn   pn  clitic=deixis  clitic=n      q      case-loc                n 
+
+Trans:	`He sees the fruit, ok, inside the basket...'
+
+====================================================================================================
+
+         0          1    2    3    4       5    6          7              8         9       10      11         12      13
+Text:   yoo          u   ki  chi  yoo      tæ  yoo          u           u-tæ     u-bru    dang   khait          u   tæt..
+IPA:     jo         ˀu   ki   ʧi   jo      tɛ   jo         ˀu          ˀu=tɛ    ˀu=bru     daŋ  kʰaʲt̪         ˀu     tɛt
+Gloss:  see  3sg.M.nom  3pl  set  see    nvis  see  3sg.M.nom         M=nvis  M=person    CONT    pick  3sg.M.nom     end
+POS:      v         pn   pn  num    v  deixis    v         pn  clitic=deixis  clitic=n  aspect       v         pn  clitic 
+
+Trans:	`He looked and saw that the person was still plucking...'
+
+====================================================================================================
+
+                     0          1          2              3               4          5
+Text:         pyn-hier          u         ka          ka-ni      ka-baiskyl        u..
+IPA:          pn̩-hiɛr         ˀu         ka          ka=ni      ka=bajskɪl         ˀu
+Gloss:  CAUS-bringdown  3sg.M.nom  3sg.F.acc         F=prox       F=bicycle  3sg.M.nom
+POS:          prefix-v         pn         pn  clitic=deixis  clitic=english         pn 
+
+Trans:	`So he put down his bicycle...'
+
+====================================================================================================
+
+           0          1        2           3       4      5          6    7      8      9          10          11               12      13
+Text:     mut          u    u-him        u-wi     hæh    rah          u   ki    rah   beit          u     pyn-chi            kriah  beit..
+IPA:      mut         ˀu   ˀu=hɪm       ˀu=wi     hɛʔ    raʔ         ˀu   ki    raʔ  baʲt̪         ˀu      pn̩-ʧi            kriaʔ   baʲt̪
+Gloss:  means  3sg.M.nom  NF=take       M=one  be.big  carry  3sg.M.nom  3pl  carry   IMM3  3sg.M.nom    CAUS-set  basket(general)    IMM3
+POS:        v         pn    der=v  clitic=num       v      v         pn   pn      v    adv         pn  prefix-num                n     adv 
+
+Trans:	`He thought he would take only one (but) he just took and carried the whole basket ("pynchi"-'whole').'
+
+====================================================================================================
+
+                0          1          2    3          4      5       6       7
+Text:       khmit          u         ka  chi      khmit     næ     dæp    tæt…
+IPA:        kʰmet         ˀu         ka   ʧi      kʰmet     nɛ     dɛp     tɛt
+Gloss:  look.here  3sg.M.nom  3sg.F.acc  set  look.here  D.TAG    CPLV     end
+POS:            v         pn         pn  num          v      q  aspect  clitic 
+
+Trans:	`He looks up, sees her, ok, and then....'
+
+====================================================================================================
+
+                0       1          2          3          4       5
+Text:          ko     tæt      khmit          u         ka   tæt..
+IPA:           kɔ     tɛt      kʰmet         ˀu         ka     tɛt
+Gloss:  3sg.F.nom     end  look.here  3sg.M.nom  3sg.F.acc     end
+POS:           pn  clitic          v         pn         pn  clitic 
+
+Trans:	`He just looked up at her, that girl, lets say because the girl is becoming a woman, ok, he looked up at her...'
+
+====================================================================================================
+
+         0    1          2    3    4       5           6      7          8          9       10                      11                  12
+Text:   yoo   ki         oo   ki  yoo      tæ        u-wi  yarap          u        oo,      tæ             u-khiendooh            nei-tæ..
+IPA:     jo   ki         ˀo   ki   jo      tɛ       ˀu=wi  jarap         ˀu         ˀo      tɛ            ˀu=kʰian-doʔ            ne-ˀi=tɛ
+Gloss:  see  3pl  3sg.M.top  3pl  see    nvis       M=one   help  3sg.M.nom  3sg.M.top    nvis  NF=be.small-completely          ABL-N=nvis
+POS:      v   pn         pn   pn    v  deixis  clitic=num      v         pn         pn  deixis               der=v-adv  case-clitic=deixis 
+
+Trans:	`They see him and one helps him, the smallest of them.. ("ya-rap" means 'help "khiendoh"-the smallest).'
+
+====================================================================================================
+
+                    0    1          2          3          4              5           6       7
+Text:         hei-por   wa      khmit          u         ka          ka-ni  ka-kynthai    tæt.
+IPA:        he-ˀi=pɔr   wa      kʰmet         ˀu         ka          ka=ni  ka=kn̩tʰaj     tɛt
+Gloss:     LOC-N=time  NMZ  look.here  3sg.M.nom  3sg.F.acc         F=prox    F=female     end
+POS:    case-clitic=n  mod          v         pn         pn  clitic=deixis    clitic=n  clitic 
+
+Trans:	`After they finish helping him, they just go, and he also just goes.. The iñured child that fell, now his hat it fell on the ground when he looked up at that girl, ok...'
+
+====================================================================================================
+
+              0    1          2      3
+Text:      siaw   ki         oo    næ.
+IPA:       siaw   ki         ˀo     nɛ
+Gloss:  whistle  3pl  3sg.M.top  D.TAG
+POS:          v   pn         pn      q 
+
+Trans:	`it was left there when he fell.. When the kids finished picking him up, when they went, in front (of them) they saw the hat, picked it up, whistled to him, ok...'
+
+====================================================================================================
+
+          0        1    2          3              4         5          6       7           8     9         10   11         12        13         14   15
+Text:     ya      u-e   ki         ka          ka-te  ka-tupri         u.      tæ       katte    da      li-e   ki         ka  ka-tupri         u,  ki,
+IPA:      ja    ˀu=ˀe   ki         ka          ka=te  ka=tupri         ˀu      tɛ      kat-te    da     li-ˀe   ki         ka  ka=tupri         ˀu   ki
+Gloss:   BEN  NF=give  3pl  3sg.F.acc        F=mprox     F=hat  3sg.M.nom    nvis    as-mprox  REAL  DUR-give  3pl  3sg.F.acc     F=hat  3sg.M.nom  3pl
+POS:    case    der=v   pn         pn  clitic=deixis  clitic=n         pn  deixis  adv-deixis  mood  prefix-v   pn         pn  clitic=n         pn   pn 
+
+Trans:	`so that they could give him his hat. now they go to give him the hat, they,.'
+
+====================================================================================================
+
+          0    1    2          3    4      5
+Text:    ki  lai  ki,         oo   wa  wan..
+IPA:     ki  laj   ki         ˀo   wa    wan
+Gloss:  3pl   go  3pl  3sg.M.top  NMZ   come
+POS:     pn    v   pn         pn  mod      v 
+
+Trans:	`They go, he comes...'
+
+====================================================================================================
+
+           0          1          2    3      4
+Text:     da       suba          u   ki   sæ..
+IPA:      da       suba         ˀu   ki     sɛ
+Gloss:  REAL  knowledge  3sg.M.nom  3pl  C.TAG
+POS:    mood          n         pn   pn      q 
+
+Trans:	`He was suspicious, ok...'
+
+====================================================================================================
+
+                     0          1    2     3          4     5        6    7        8        9       10         11         12     13
+Text:        pyn-khooid         oo   wa   hap          u    ha  khyndaw  ong        o      jan   u-bam          u         oo     næ
+IPA:         pn̩-kʰoʲd̪         ˀo   wa   hap         ˀu    ha  kʰn̩daw  ˀɔŋ       ˀɔ      ʤan  ˀu=bam         ˀu         ˀo     nɛ
+Gloss:  CAUS-clean,pure  3sg.M.top  NMZ  fall  3sg.M.nom   LOC    earth  say  1sg.nom  be.near  NF=eat  3sg.M.nom  3sg.M.top  D.TAG
+POS:           prefix-v         pn  mod     v         pn  case        n    v       pn        v   der=v         pn         pn      q 
+
+Trans:	`.'
+
+====================================================================================================
+
+                0         1          2          3              4          5          6         7          8
+Text:           u  khynthær          u         ka         ka-tai  ka-patlun          u     kteih         ko
+IPA:           ˀu  kʰn̩tʰɛr         ˀu         ka         ka=taj  ka=patlun         ˀu     kteʲʔ         kɔ
+Gloss:  3sg.M.nom  dust.off  3sg.M.nom  3sg.F.acc       F=distal    F=pants  3sg.M.nom  dirt,mud  3sg.F.nom
+POS:           pn         v         pn         pn  clitic=deixis   clitic=n         pn         n         pn 
+
+Trans:	`.'
+
+====================================================================================================
+
+               0          1     2          3           4          5          6
+Text:      u-bru         ka   tip      chenu         yah          u        ka.
+IPA:      ˀu=bru         ka   tɪp      ʧe-nu         jaʔ         ˀu         ka
+Gloss:  M=person  3sg.F.acc  know  ALL-which  drive,lead  3sg.M.nom  3sg.F.acc
+POS:    clitic=n         pn     v     case-n           v         pn         pn 
+
+Trans:	`.'
+
+====================================================================================================
+
+                   0     1    2    3            4         5       6     7    8    9          10          11
+Text:       chei-thaw   wan    i   wa         lang     ka-um      tæ    da  ong   ki         ka  ka-durioo.
+IPA:       ʧe-ˀi=tʰaw   wan   ˀi   wa          laŋ    ka=ˀum      tɛ    da  ˀɔŋ   ki         ka    ka=durjo
+Gloss:    ALL-N=place  come  1pl  NMZ  be.together   F=water    nvis  REAL  say  3pl  3sg.F.acc       F=sea
+POS:    case-clitic=n     v   pn  mod            v  clitic=n  deixis  mood    v   pn         pn    clitic=n 
+
+Trans:	`after that, the collected water, started to scatter and started to dispersed to the valleys, streams and river, and the place where there was large amount of
+
+====================================================================================================
+
+               0         1       2     3          4              5       6      7           8       9    10   11   12        13
+Text:         mih  ki-rnæm,     man    da        mih          ki-tæ      tæ    mut   i-pyrthai     man    i    i   wa   yirngam
+IPA:          miʔ   ki=rnɛm     man    da        miʔ          ki=tɛ      tɛ    mut  ˀi=pr̩tʰaj     man   ˀi   ˀi   wa    jr̩ŋam
+Gloss:  bring.out  PL=shrub  become  REAL  bring.out        PL=nvis    nvis  means     N=world  become  1pl  1pl  NMZ  be.green
+POS:            v  clitic=n       v  mood          v  clitic=deixis  deixis      v    clitic=n       v   pn   pn  mod         v 
+
+Trans:	`when the rocks were covered with the soil, then the mother earth give him another instruction to throw the seeds, and the trees, herbs and shrubs started to
+
+====================================================================================================
+
+                0    1    2           3         4    5              6    7    8                  9     10   11
+Text:   ki-kyntein   ki   wa       i-man    brabor  toh  u-sñiawthooh    i   ki         hei-jingim  yong   i.
+IPA:    ki=kn̩teʲn   ki   wa      ˀi=man    brabɔr  tɔʔ   ˀu=sɲiawtʰoʔ   ˀi   ki      he-ˀi=ʤiŋ-ˀɪm   jɔŋ   ˀi
+Gloss:     PL=word  3pl  NMZ  ACT=become  valuable   be  NF=understand  1pl  3pl  LOC-N=ab.NMZ-live   GEN  1pl
+POS:      clitic=n   pn  mod       der=v         v    v          der=v   pn   pn  case-clitic=nmz-v  case   pn 
+
+Trans:	` 'if we serve mankind we serve God and we should understand their value in our life.'
+
+====================================================================================================
+
+                0              1       2            3    4          5       6                  7    8            9
+Text:         mih          i-tæ,      tæ      pyn-hæh    i        ka,      tæ          pyn-khroo    i  ka-langdoh.
+IPA:          miʔ          ˀi=tɛ      tɛ      pn̩-hɛʔ   ˀi         ka      tɛ           pn̩-kʰro   ˀi    ka=laŋdɔʔ
+Gloss:  bring.out         N=nvis    nvis  CAUS-be.big  1pl  3sg.F.acc    nvis  CAUS-be.important  1pl    F=Langdoh
+POS:            v  clitic=deixis  deixis     prefix-v   pn         pn  deixis           prefix-v   pn  clitic=name 
+
+Trans:	`she breastfed the langdoh's daughter, then emerge what is called le kyllung, due to breastfed, so she brought the langdoh ('s child) up" .'
+
+====================================================================================================
+
+              0        1    2     3        4
+Text:    u-ksoh        o   ki    ha     nga.
+IPA:    ˀu=ksɔʔ       ˀɔ   ki    ha       ŋa
+Gloss:  NF=hold  1sg.nom  3pl   LOC  1sg.top
+POS:      der=v       pn   pn  case       pn 
+
+Trans:	`since im holding two parts, one is as a langdoh and another is as the daloi, i want to give her the daloi share because i will hold the langdoh share" .'
+
+====================================================================================================
+
+                 0              1    2          3          4    5     6    7          8         9       10
+Text:    u-langdoh,          ka-tæ  toh   ka-bynta         ka   wa   yee   ki          u    ya-læh  daloi.
+IPA:      ˀu=laŋdɔʔ          ka=tɛ  tɔʔ   ka=bn̩ta         ka   wa    je   ki         ˀu    ja-lɛʔ   daloj
+Gloss:    M=Langdoh         F=nvis   be  F=purpose  3sg.F.acc  NMZ  able  3pl  3sg.M.nom    BEN-do   daloi
+POS:    clitic=name  clitic=deixis    v   clitic=n         pn  mod     v   pn         pn  prefix-v       n 
+
+Trans:	`they stayed here permanently and got 'daloi as their job, that's how they can contest the daloiship" .'
+
+====================================================================================================
+
+               0         1     2          3       4    5    6          7                8
+Text:       ngut   ki-khon  yong        ka,      tæ  ong   ki         ka  ka-sansyngkong.
+IPA:         ŋut   ki=kʰɔn   jɔŋ         ka      tɛ  ˀɔŋ   ki         ka     ka=sansŋ̩kɔŋ
+Gloss:  CL.human  PL=child   GEN  3sg.F.acc    nvis  say  3pl  3sg.F.acc    F=Sansyngkong
+POS:        clsf  clitic=n  case         pn  deixis    v   pn         pn      clitic=name 
+
+Trans:	`her daughters were blah, slong, pde, pariat and chylla. These were her five children and they were called sansyngkong" .'
+
+====================================================================================================
+
+                 0       1    2     3       4    5    6    7     8         9    10
+Text:       u-jowai      yn   ym    æm   u-bam   ki   ki   ym    æm    u-prai  ki.
+IPA:        ˀu=ʤwaj      n̩   m̩   ˀɛm  ˀu=bam   ki   ki   m̩   ˀɛm   ˀu=praj   ki
+Gloss:      M=Jowai     REF  NEG  have  NF=eat  3pl  3pl  NEG  have  NF=vomit  3pl
+POS:    clitic=name  clitic  neg     v   der=v   pn   pn  neg     v     der=v   pn 
+
+Trans:	`he advised them not to eat anything, but the majority knew nothing about this they ate they drink, they vomit with blood, whereas jwai's warriors did not take
+
+====================================================================================================
+
+         0    1       2         3    4       5     6    7        8     9    10        11
+Text:    ki   wa    sooh        ot   i,      tæ    la   ym    ngait  phi,  phi  li-pait.
+IPA:     ki   wa     soʔ       ˀot   ˀi      tɛ    la   m̩    ŋaʲt̪   pʰi  pʰi  li-paʲt̪
+Gloss:  3pl  NMZ  suffer  diarrhea  1pl    nvis    if  NEG  believe   2pl  2pl  DUR-look
+POS:     pn  mod       v         n   pn  deixis  conj  neg        v    pn   pn  prefix-v 
+
+Trans:	`so they went and to be able to get out of the territory to give the message to jwai, but the guards aked them 'where are you going? They replied we are suffering
+
+====================================================================================================
+
+                 0         1            2      3    4    5                   6         7    8    9    10       11
+Text:         teiñ     ki-yi          bi,  kriah   ki   ki              nei-tæ    i-thaw   wa   wa   wa    boon.
+IPA:           teʲɲ     ki=ji           bi  kriaʔ   ki   ki            ne-ˀi=tɛ   ˀi=tʰaw   wa   wa   wa      bon
+Gloss:  afraid,fear  PL=thing  be.diseased  shift  3pl  3pl          ABL-N=nvis   N=place  NMZ  NMZ  NMZ  be.much
+POS:              v  clitic=n            v      v   pn   pn  case-clitic=deixis  clitic=n  mod  mod  mod        v 
+
+Trans:	`so they took the king to take a look at that spot where they passed toilet, he saw that there's blood, he trust them now and the king feared that the disease will
+
+====================================================================================================
+
+          0      1       2                   3         4         5           6       7    8    9    10        11       12       13
+Text:     ha  jwai,      tæ              hei-tæ    i-thaw    hadooh       katni     man  ong   ki   ki    i-thaw      sæh  khlieh.
+IPA:      ha   ʤwaj      tɛ            he-ˀi=tɛ   ˀi=tʰaw    ha-doʔ      kat-ni     man  ˀɔŋ   ki   ki   ˀi=tʰaw      sɛʔ   kʰleʲʔ
+Gloss:   LOC  Jowai    nvis          LOC-N=nvis   N=place  LOC-when     as-prox  become  say  3pl  3pl   N=place  display     head
+POS:    case   name  deixis  case-clitic=deixis  clitic=n  case-loc  adv-deixis       v    v   pn   pn  clitic=n        v        n 
+
+Trans:	`then the eleven daloi bow down to jwai, then they took malngiang's head to jwai and till now that place is known as 'thaw seh khlieh " .'
+
+====================================================================================================
+
+          0          1          2          3      4
+Text:   yoh         mi         ka  ka-syrtap    sæ.
+IPA:    jɔʔ         mi         ka  ka=sr̩tap     sɛ
+Gloss:  get  2sg.M.nom  3sg.F.acc    F=layer  C.TAG
+POS:      v         pn         pn   clitic=n      q 
+
+Trans:	`ok so you see, i have to go step by step. if i just jumble around it will not be systematic so let me go step by step till the story about soo kpoh. if you are not
+
+====================================================================================================
+
+                0              1    2          3              4       5         6          7          8            9
+Text:          ko      yei-khon,  yoh         ko       yei-khon      tæ   pyrtuit         ko         ka   ka-chadap.
+IPA:           kɔ     je-ˀi=kʰɔn  jɔʔ         kɔ     je-ˀi=kʰɔn      tɛ  pr̩tuʲt̪         kɔ         ka     ka=ʧadap
+Gloss:  3sg.F.nom    BEN-N=child  get  3sg.F.nom    BEN-N=child    nvis      name  3sg.F.nom  3sg.F.acc     F=Chadap
+POS:           pn  case-clitic=n    v         pn  case-clitic=n  deixis         n         pn         pn  clitic=name 
+
+Trans:	`when she got married to yale she gave birth to a baby girl which she named 'chadap (chadap is one of the clan in the pnar tribe which are present till today)" .'
+
+====================================================================================================
+
+                0        1    2    3        4             5         6     7          8
+Text:          ko      nga   ym  lai        o         napoh   ki-kjat  yong        me.
+IPA:           kɔ       ŋa   m̩  laj       ˀɔ        na-pɔʔ   ki=kʤat   jɔŋ         me
+Gloss:  3sg.F.nom  1sg.top  NEG   go  1sg.nom  ABL-under,in    PL=leg   GEN  2sg.M.acc
+POS:           pn       pn  neg    v       pn      case-loc  clitic=n  case         pn 
+
+Trans:	`when she transformed, her husband spread his legs over the water/river, he wanted to catch her but she's not willing to come with him, she said to him that she
+
+====================================================================================================
+
+                   0    1    2    3    4              5       6    7    8    9           10        11    12     13
+Text:           ki-tæ  toh  ong   ki   ki          ki-ni      tæ  ong   ki   ki      ki-soo      dwar   soo  luti.
+IPA:            ki=tɛ  tɔʔ  ˀɔŋ   ki   ki          ki=ni      tɛ  ˀɔŋ   ki   ki       ki=so      dwar    so   luti
+Gloss:        PL=nvis   be  say  3pl  3pl        PL=prox    nvis  say  3pl  3pl     PL=four  dwelling  four    way
+POS:    clitic=deixis    v    v   pn   pn  clitic=deixis  deixis    v   pn   pn  clitic=num         n   num      n 
+
+Trans:	`When he left them there he kept along with 'kongsan wakhai', 'kongsan mooralong', kongsan moosniamg', kongsan mooting and these were known as the four
+
+====================================================================================================
+
+                    0    1    2    3           4      5     6         7
+Text:           ki-tæ  ong   ki   ki      ki-soo  thwai   soo  lynngan.
+IPA:            ki=tɛ  ˀɔŋ   ki   ki       ki=so  tʰwaj    so    ln̩ŋan
+Gloss:        PL=nvis  say  3pl  3pl     PL=four  ocean  four    spring
+POS:    clitic=deixis    v   pn   pn  clitic=num      n   num         n 
+
+Trans:	`then he kept 'myntdu (river), that would sorround the village. After that he kept myntdu's children which were 'sati myntdu', 'lamynchi', 'sangman and 'syntu
+
+====================================================================================================
+
+                        0         1        2          3     4     5        6    7         8     9     10
+Text:               nei-ni   i-thaw,      nga  u-kongsan  yong  phi,      nga  toh   u-masan  yong  phi.
+IPA:              ne-ˀi=ni   ˀi=tʰaw       ŋa  ˀu=kɔŋsan   jɔŋ   pʰi       ŋa  tɔʔ  ˀu=masan   jɔŋ   pʰi
+Gloss:          ABL-N=prox   N=place  1sg.top    M=uncle   GEN   2pl  1sg.top   be   M=uncle   GEN   2pl
+POS:    case-clitic=deixis  clitic=n       pn   clitic=n  case    pn       pn    v  clitic=n  case    pn 
+
+Trans:	`in that mean time Mookhai talk to them and begged them not to go away, i am your uncle he said" .'
+
+====================================================================================================
+
+               0    1    2         3     4     5    6        7    8         9
+Text:     ki-won   ki   wa     u-mut  chun    ya  phi      nga   wa   u-pait.
+IPA:      ki=wɔn   ki   wa    ˀu=mut   ʧun    ja  pʰi       ŋa   wa  ˀu=paʲt̪
+Gloss:  PL=which  3pl  NMZ  NF=means  harm   BEN  2pl  1sg.top  NMZ   NF=look
+POS:    clitic=n   pn  mod     der=v     n  case   pn       pn  mod     der=v 
+
+Trans:	`when he called them near him, then he said you are my sisters, and this is your place /village and it is called 'jwai'/ jowai. So don't be afraid, i will protect you
+
+====================================================================================================
+
+           0    1        2       3          4    5          6    7          8            9     10            11    12   13
+Text:   sdang   ki    u-wan     man        kam   wa   ka-sdang   ki         ka     ka-niam,   wan    ka-pateiñ  yong  ki.
+IPA:     sdaŋ   ki   ˀu=wan     man        kam   wa    ka=sdaŋ   ki         ka      ka=niam   wan     ka=pateʲɲ   jɔŋ   ki
+Gloss:  begin  3pl  NF=come  become  like,want  NMZ  RES=begin  3pl  3sg.F.acc  F=tradition  come  F=generation   GEN  3pl
+POS:        v   pn    der=v       v          v  mod      der=v   pn         pn     clitic=n     v      clitic=n  case   pn 
+
+Trans:	` so that the religion can be started, those were the things how soo kpoh started the religion, from their generations."
+
+====================================================================================================
+
+                0          1    2      3          4
+Text:           u         ka   ym   dait        ko.
+IPA:           ˀu         ka   m̩  daʲt̪         kɔ
+Gloss:  3sg.M.nom  3sg.F.acc  NEG   bite  3sg.F.nom
+POS:           pn         pn  neg      v         pn 
+
+Trans:	`when she saw the broom she went back, she run and jumped in the 'wai khyrwi' river, loh ryndi saw what happened he followed her and tried to catch her but he
+
+====================================================================================================
+
+         0     1          2     3           4     5       6     7     8          9              10        11    12         13      14          15         16   17
+Text:    wa   sah          u    ha      ka-pun  kuri      tæ  chim   noh          u          ki-tæ   ki-khon   cha         oo      tæ         yah          u  ki.
+IPA:     wa   saʔ         ˀu    ha      ka=pun  kuri      tɛ   ʧɪm   nɔʔ         ˀu          ki=tɛ   ki=kʰɔn    ʧa         ˀo      tɛ         jaʔ         ˀu   ki
+Gloss:  NMZ  stay  3sg.M.nom   LOC       F=all  Kuri    nvis  take  IMM1  3sg.M.nom        PL=nvis  PL=child   ALL  3sg.M.top    nvis  drive,lead  3sg.M.nom  3pl
+POS:    mod     v         pn  case  clitic=adv  name  deixis     v   adv         pn  clitic=deixis  clitic=n  case         pn  deixis           v         pn   pn 
+
+Trans:	`so khmah was from nangbah and his job was to sell chilli to hadem, when he was there at hadem, because he's a good friend of weipun kuri, she said 'khmah
+
+====================================================================================================
+
+            0     1     2          3    4    5       6         7           8        9     10         11   12    13        14      15
+Text:       tæ   dai   noh          u   ki  chi   khara  sumurit,    chikhara  sumurit   dai          u   ki    ya   u-daloi  hadem.
+IPA:        tɛ   daj   nɔʔ         ˀu   ki   ʧi   kʰara    smurɪt    ʧi-kʰara   smurɪt   daj         ˀu   ki    ja  ˀu=daloj   hadɛm
+Gloss:    nvis  sell  IMM1  3sg.M.nom  3pl  set  basket    pepper  one-basket   pepper  sell  3sg.M.nom  3pl   BEN   M=daloi   Hadem
+POS:    deixis     v   adv         pn   pn  num       n         n       num-n        n     v         pn   pn  case  clitic=n    name 
+
+Trans:	`he took them to hadem and he could not feed them to take care of them for long, so with a basket of chilli he sold them to the 'daloi hadem'." .'
+
+====================================================================================================
+
+          0             1     2              3        4          5     6              7     8        9          10        11    12      13
+Text:     la         kamtæ    ya          u-yah        o         ka    ya          u-yah   noh        o         ka   mynstæp   cha  majar.
+IPA:      la        kam-tɛ    ja         ˀu=jaʔ       ˀɔ         ka    ja         ˀu=jaʔ   nɔʔ       ˀɔ         ka   mn̩stɛp    ʧa   maʤar
+Gloss:    if  as,like-nvis   BEN  NF=drive,lead  1sg.nom  3sg.F.acc   BEN  NF=drive,lead  IMM1  1sg.nom  3sg.F.acc  tomorrow   ALL  bazaar
+POS:    conj    adv-deixis  case          der=v       pn         pn  case          der=v   adv       pn         pn         n  case   hindi 
+
+Trans:	`then they gave him a chance to talk, khmah said 'kong wasan the queen is with me now', everyone was surprised, 'i will bring her to majar tomorrow'." .'
+
+====================================================================================================
+
+                  0          1          2         3     4          5
+Text:         thooh          u         ka   ka-diah  yong         oo
+IPA:           tʰoʔ         ˀu         ka   ka=diaʔ   jɔŋ         ˀo
+Gloss:  find,search  3sg.M.nom  3sg.F.acc  F=sister   GEN  3sg.M.top
+POS:              v         pn         pn  clitic=n  case         pn 
+
+Trans:	`the warriors went to hadem and Yakorsing was searching for his sister since the last night.'
+
+====================================================================================================
+
+               0          1          2     3         4         5         6
+Text:   chiliang          u         oo   cha  chiliang    ka-wah  sarkhaa.
+IPA:      ʧiliaŋ         ˀu         ˀo    ʧa    ʧiliaŋ    ka=waʔ    sarkha
+Gloss:    across  3sg.M.nom  3sg.M.top   ALL    across   F=river   Sarkhaa
+POS:         loc         pn         pn  case       loc  clitic=n      name 
+
+Trans:	`Yakorsing said 'if i can cross the river to search for my sister i'll give give you a man forever', then she brought the tiger for yakorsing, he sat on the tiger and
+
+====================================================================================================
+
+                  0          1     2          3          4          5
+Text:      u-khmah,         oo    da     tipmit          u        oo.
+IPA:       ˀu=kʰmaʔ         ˀo    da     tɪpmɪt         ˀu         ˀo
+Gloss:      M=Khmah  3sg.M.top  REAL  recognize  3sg.M.nom  3sg.M.top
+POS:    clitic=name         pn  mood          v         pn         pn 
+
+Trans:	`when he crossed the river the tiger jump and disappeared, then he went further and asked about the his sisters all around he could'nt find her, finally he saw the
+
+====================================================================================================
+
+           0         1             2     3           4     5    6    7
+Text:    soo     tylli    ki-pargana   cha  bangladesh  dooh    i  ki.
+IPA:      so     tl̩li    ki=pargana    ʧa      baŋgla   doʔ   ˀi   ki
+Gloss:  four  CL.piece    PL=pargana   ALL  Bangladesh  lose  1pl  3pl
+POS:     num      clsf  clitic=hindi  case        name     v   pn   pn 
+
+Trans:	`So as of now since there was a territory division between india and Bangladesh, we lost all the 24 pargana since they are situated in Bangladesh.'
+
+====================================================================================================
+
+          0           1       2          3              4     5           6      7     8    9          10    11           12
+Text:     æm      chitai      tæ      i-mut         ki-tai   cha      bangla  waroh  dooh    i         ka  yong  ka-jaintia.
+IPA:     ˀɛm      ʧi-taj      tɛ     ˀi=mut         ki=taj    ʧa      baŋgla  warɔʔ   doʔ   ˀi         ka   jɔŋ    ka=ʤentia
+Gloss:  have  one-distal    nvis  ACT=means      PL=distal   ALL  Bangladesh    all  lose  1pl  3sg.F.acc   GEN    F=Jaintia
+POS:       v  num-deixis  deixis      der=v  clitic=deixis  case        name    num     v   pn         pn  case  clitic=name 
+
+Trans:	`pargana means a place to be ruled, in our terms it is 12 daloi, so 1 daloi means 1 pargana, and all that 24 pargana (which was jaintia's) was situated in
+
+====================================================================================================
+
+          0          1            2
+Text:    ki         ka    ka-diyang
+IPA:     ki         ka     ka=dijaŋ
+Gloss:  3pl  3sg.F.acc     F=Diyang
+POS:     pn         pn  clitic=name 
+
+Trans:	`at that time before crossing the river they waited for the crowd, since then it is known as 'dayang (dayang means to wait) but when this place was out of our
+
+====================================================================================================
+
+                0     1    2    3    4         5           6     7    8    9     10   11    12   13   14   15    16   17   18            19
+Text:   ki-kyntein  yong    i   ki   wa    hadooh       katni    æm   ki   wa   tip   ki    æm   ki   wa   ym   tip  ki.   ym  sñiawthooh.
+IPA:    ki=kn̩teʲn   jɔŋ   ˀi   ki   wa    ha-doʔ      kat-ni   ˀɛm   ki   wa   tɪp   ki   ˀɛm   ki   wa   m̩   tɪp   ki   m̩     sɲiawtʰoʔ
+Gloss:     PL=word   GEN  1pl  3pl  NMZ  LOC-when     as-prox  have  3pl  NMZ  know  3pl  have  3pl  NMZ  NEG  know  3pl  NEG    understand
+POS:      clitic=n  case   pn   pn  mod  case-loc  adv-deixis     v   pn  mod     v   pn     v   pn  mod  neg     v   pn  neg             v 
+
+Trans:	`if we say 'ka palong many will understand that it's a 'bed', but 'ka palong was the one we use to cover while sleeping ( like a blanket), and if we say 'sata which
+
+====================================================================================================
+
+                0       1    2    3          4               5             6    7         8          9
+Text:      chætja      tæ  ong    i         ka        ka-rkut,          rkut  toh   ka-yung    chætja.
+IPA:       ʧɛt-ʤa      tɛ  ˀɔŋ   ˀi         ka         ka=rkut          rkut  tɔʔ    ka=juŋ     ʧɛt-ʤa
+Gloss:  cook-rice    nvis  say  1pl  3sg.F.acc  F=wicker.stool  wicker.stool   be    F=home  cook-rice
+POS:          v-n  deixis    v   pn         pn        clitic=n             n    v  clitic=n        v-n 
+
+Trans:	`before we get into the house we enter the 'dhari' first after then comes the 'tre thlong', after tre thlong then the 'chloor' after 'chloor' then the 'rkut' which is a
+
+====================================================================================================
+
+           0          1    2    3    4    5     6              7            8         9
+Text:   yong         oo   ym  yoo    i  ki,    na         ki-tai       pynhæh  u-deiñ.
+IPA:     jɔŋ         ˀo   m̩   jo   ˀi   ki    na         ki=taj      pn̩-hɛʔ   ˀu=deʲɲ
+Gloss:   GEN  3sg.M.top  NEG  see  1pl  3pl   ABL      PL=distal  CAUS-be.big    M=tree
+POS:    case         pn  neg    v   pn   pn  case  clitic=deixis     prefix-v  clitic=n 
+
+Trans:	`now when we worship God, we worship Him but we cannot see him, we worship Him to give us blessings, and what is that? so the same thing with the tree, it
+
+====================================================================================================
+
+              0        1    2    3     4    5          6               7    8    9     10   11    12             13        14
+Text:     nadooh  mynchwa   ym   pu   tip   ki         ka    ka-calendar,   ym   pu   tip   ki    ya          ki-tæ   ki-sngi
+IPA:      na-doʔ   mn̩ʧwa   m̩   pu   tɪp   ki         ka     ka=kalɛndar   m̩   pu   tɪp   ki    ja          ki=tɛ    ki=sŋi
+Gloss:  ABL-when   before  NEG  not  know  3pl  3sg.F.acc      F=calendar  NEG  not  know  3pl   BEN        PL=nvis    PL=day
+POS:    case-loc      loc  neg  neg     v   pn         pn  clitic=english  neg  neg     v   pn  case  clitic=deixis  clitic=n 
+
+Trans:	`since the olden days the people does"nt know about the calendar, they know not about the days.'
+
+====================================================================================================
+
+                     0      1    2    3    4       5      6    7       8       9            10   11         12
+Text:        ki-jingmut  nong,   ym  toh   wa     man     eh  ki,      tæ  kammon         sein   ki         ka
+IPA:         ki=ʤiŋ-mut    nɔŋ   m̩  tɔʔ   wa     man    ˀeʔ   ki      tɛ  kammɔn         seʲn   ki         ka
+Gloss:  PL=ab.NMZ-means   conf  NEG   be  NMZ  become  leave  3pl    nvis     how  time,action  3pl  3sg.F.acc
+POS:       clitic=nmz-v      q  neg    v  mod       v      v   pn  deixis       q            n   pn         pn 
+
+Trans:	`so according to the folktales market days are intentionally established and they have a meaning right, it's not that it happened just like that.'
+
+====================================================================================================
+
+            0      1          2        3     4       5      6      7      8    9     10        11           12         13         14             15
+Text:   khynde   bnai    punkhon  kynthai    ha  bneñ,    mut   phra   bnai  toh    ha  pyrthai,  sñiawthooh         mi         ka         ka-tæ.
+IPA:    kʰn̩de   bnaj   pun-kʰɔn  kn̩tʰaj    ha   bneʲɲ    mut   pʰra   bnaj  tɔʔ    ha   pr̩tʰaj    sɲiawtʰoʔ         mi         ka          ka=tɛ
+Gloss:    nine  month  all-child   female   LOC     sky  means  eight  month   be   LOC     world   understand  2sg.M.nom  3sg.F.acc         F=nvis
+POS:       num      n      adv-n        n  case       n      v    num      n    v  case         n            v         pn         pn  clitic=deixis 
+
+Trans:	`nine in heaven(sky) means eight in the earth, that"s the difference, a woman is nine months pregnant in heaven eight in the earth, i hope you understand that.'
+
+====================================================================================================
+
+         0     1    2     3            4          5       6             7    8          9      10   11           12   13         14     15
+Text:    ym   tip   ki    ya      ka-niam  ka-rukom,      tæ     pyn-bakla   ki         ka    sæ,   ym  sñiawthooh   ki         ka    sæ.
+IPA:     m̩   tɪp   ki    ja      ka=niam   ka=rukɔm      tɛ     pn̩-bakla   ki         ka     sɛ   m̩    sɲiawtʰoʔ   ki         ka     sɛ
+Gloss:  NEG  know  3pl   BEN  F=tradition      F=way    nvis  CAUS-mistake  3pl  3sg.F.acc  C.TAG  NEG   understand  3pl  3sg.F.acc  C.TAG
+POS:    neg     v   pn  case     clitic=n   clitic=n  deixis      prefix-v   pn         pn      q  neg            v   pn         pn      q 
+
+Trans:	`the reason for that mistake is because they don't know how to count, the truth is that they don't know the culture they don"t understand it.'
+
+====================================================================================================
+
+                     0      1    2    3              4      5             6    7    8
+Text:             skum   khon  ong    i           i-tu    hab        libooh    i   ki
+IPA:              skum   kʰɔn  ˀɔŋ   ˀi          ˀi=tu    hab        li-boʔ   ˀi   ki
+Gloss:  straw,shavings  child  say  1pl         N=medl  OBLIG  DUR-put,keep  1pl  3pl
+POS:                 n      n    v   pn  clitic=deixis      v      prefix-v   pn   pn 
+
+Trans:	`before delivery everything was kept ready, things are kept ready before delivery, and the placenta we have to go and keep it.'
+
+====================================================================================================
+
+             0               1     2    3    4          5                 6       7
+Text:       tæ     hei-pyrtuit   wan  ong    i         ka          "ka-knia  khaat"
+IPA:        tɛ  he-ˀi=pr̩tuʲt̪   wan  ˀɔŋ   ˀi         ka           ka=knia    kʰat
+Gloss:    nvis      LOC-N=name  come  say  1pl  3sg.F.acc  F=sacrifice,rite   Khaat
+POS:    deixis   case-clitic=n     v    v   pn         pn          clitic=n    name 
+
+Trans:	`the uncle should start first then the father (of the child), then followed everyone present in the feast, ok now for naming after completion of everything, the
+
+====================================================================================================
+
+          0          1                 2       3
+Text:     i         ka          'ka-knia  khaat'
+IPA:     ˀi         ka           ka=knia    kʰat
+Gloss:  1pl  3sg.F.acc  F=sacrifice,rite   Khaat
+POS:     pn         pn          clitic=n    name 
+
+Trans:	`when the name was given, it stays forever and this was called 'kñia khaat'.'
+
+====================================================================================================
+
+             0    1          2     3        4
+Text:   wanrah    i         oo   cha  pyrthai
+IPA:    wanraʔ   ˀi         ˀo    ʧa  pr̩tʰaj
+Gloss:   bring  1pl  3sg.M.top   ALL    world
+POS:         n   pn         pn  case        n 
+
+Trans:	`the betel leaf was brought to this earth from the lameh latang?s cave, (khon lymboit lymbiang literally means a poor person), as a poor person it came to this
+
+====================================================================================================
+
+            0    1    2    3    4           5        6      7
+Text:     sæ,   ym  lai    i    i      ka-man   detail    sæ.
+IPA:       sɛ   m̩  laj   ˀi   ˀi      ka=man    ditel     sɛ
+Gloss:  C.TAG  NEG   go  1pl  1pl  RES=become   detail  C.TAG
+POS:        q  neg    v   pn   pn       der=v  english      q 
+
+Trans:	`but when performed rites the story was shortened, we won't go into its details'..'
+
+====================================================================================================
+
+          0    1          2         3          4              5
+Text:   ong   ki         ka    ki-dak    ki-chin        nei-sæ.
+IPA:    ˀɔŋ   ki         ka    ki=dak     ki=ʧɪn       ne-ˀi=sɛ
+Gloss:  say  3pl  3sg.F.acc   PL=sign  PL=signal    ABL-N=C.TAG
+POS:      v   pn         pn  clitic=n   clitic=n  case-clitic=q 
+
+Trans:	`till the rooster comes to this story, this is the story of how we take meat from him, then comes to this they said it's a sign'..'
+
+====================================================================================================
+
+                         0          1          2         3
+Text:            u-lithooh          u         ka   u-sngi.
+IPA:            ˀu=li-tʰoʔ         ˀu         ka    ˀu=sŋi
+Gloss:  NF=DUR-find,search  3sg.M.nom  3sg.F.acc     M=day
+POS:          der=prefix-v         pn         pn  clitic=n 
+
+Trans:	`so about khon lymboit lymbiang's ones, how he came and how he fetch the sun'..'
+
+====================================================================================================
+
+          0    1    2    3     4         5     6         7     8    9    10   11    12   13    14          15    16      17
+Text:     wa    i   ki   wa    im     yanom   sah     yanom    wa  phi   ki   wa   daw  yap   daw        rusa   daw  pyut'.
+IPA:      wa   ˀi   ki   wa   ˀɪm    ja-nɔm   saʔ    ja-nɔm    wa  pʰi   ki   wa   daw  jap   daw        rusa   daw    pʔut
+Gloss:  COMT  1pl  3pl  NMZ  live  BEN-ever  stay  BEN-ever  COMT  2pl  3pl  NMZ   IRR  die   IRR  decompose?   IRR     rot
+POS:    conj   pn   pn  mod     v  prefix-n     v  prefix-n  conj   pn   pn  mod  mood    v  mood           v  mood       v 
+
+Trans:	`the sun saw all that, heard all the ill speaking she said 'you the perishables value your price with me who will stay/live forever'..'
+
+====================================================================================================
+
+         0    1    2               3    4               5              6         7    8          9     10                                    11
+Text:    ki   ki   wa           phooh   wa           pheñ       hei-jooh     i-por  toh    i-bynta  yong                            bisukrong.
+IPA:     ki   ki   wa            pʰoʔ   wa            pʰeɲ      he-ˀi=ʤoʔ    ˀi=pɔr  tɔʔ   ˀi=bn̩ta   jɔŋ                            bi-suk-rɔŋ
+Gloss:  3pl  3pl  NMZ  glow(withlife)  NMZ  glow,cheer,joy  LOC-N=be.same    N=time   be  N=purpose   GEN  be.diseased-be.peaceful-color,symbol
+POS:     pn   pn  mod               v  mod               v  case-clitic=v  clitic=n    v   clitic=n  case                                 v-v-n 
+
+Trans:	`it is the warmness it brought to that family, when there is fire it makes our home warm, even in when a child was born to the family it brought warmness and
+
+====================================================================================================
+
+            0      1          2       3          4          5    6           7          8    9             10
+Text:       tæ    mut          u     man          u          u   wa       khuid          u   wa       jngiar.
+IPA:        tɛ    mut         ˀu     man         ˀu         ˀu   wa      kʰoʲd̪         ˀu   wa         ʤŋiar
+Gloss:    nvis  means  3sg.M.nom  become  3sg.M.nom  3sg.M.nom  NMZ  clean,pure  3sg.M.nom  NMZ  totallyclear
+POS:    deixis      v         pn       v         pn         pn  mod           v         pn  mod             v 
+
+Trans:	`this means to cleanse him, now you don't know where he came in which manner, which way he walked, when cleansing is done he became clean, before he
+
+====================================================================================================
+
+         0     1          2           3     4       5     6    7    8    9         10          11
+Text:   toh    da  pyn-chong  pyn-thiah,    da     man   noh   ki   ki   wa    ya-toh   ya-tynne.
+IPA:    tɔʔ    da    pn̩-ʧɔŋ   pn̩-tʰiaʔ    da     man   nɔʔ   ki   ki   wa    ja-tɔʔ    ja-tn̩ne
+Gloss:   be  REAL   CAUS-sit  CAUS-sleep  REAL  become  IMM1  3pl  3pl  NMZ    BEN-be  BEN-before
+POS:      v  mood   prefix-v    prefix-v  mood       v   adv   pn   pn  mod  prefix-v  prefix-loc 
+
+Trans:	`the proof given during engagement, that these two are related according to the culture.'
+
+====================================================================================================
+
+               0          1          2    3       4       5     6          7     8          9       10      11     12      13     14
+Text:       u-man         ko         ka   wa  skhem,      tæ    la  tyngkhæñ    ya         ka      tæ      tæ    mut     man  sang.
+IPA:       ˀu=man         kɔ         ka   wa   skʰɛm      tɛ    la    tŋ̩kʰɛɲ    ja         ka      tɛ      tɛ    mut     man    saŋ
+Gloss:  NF=become  3sg.F.nom  3sg.F.acc  NMZ    firm    nvis    if      break   BEN  3sg.F.acc    nvis    nvis  means  become  taboo
+POS:        der=v         pn         pn  mod       v  deixis  conj          v  case         pn  deixis  deixis      v       v      v 
+
+Trans:	`we should not just ignore just because it's a pitor, this is the way that once given it should be a firm one, if its broken it is a taboo.'
+
+====================================================================================================
+
+                    0    1     2      3    4     5             6          7         8    9    10   11   12    13           14
+Text:        ki-jingim  toh    im   bait   ki    da     ki-dakha,   ki-syiñ  pynæmkam   ki   ki   wa  lai    ha     ka-niam.
+IPA:        ki=ʤiŋ-ˀɪm  tɔʔ   ˀɪm  baʲt̪   ki    da      ki=dakʰa    ki=sʔiɲ  pn̩ɛmkam   ki   ki   wa  laj    ha      ka=niam
+Gloss:  PL=ab.NMZ-live   be  live   IMM3  3pl  INST  PL=fish.type  PL=ginger       use  3pl  3pl  NMZ   go   LOC  F=tradition
+POS:      clitic=nmz-v    v     v    adv   pn  case      clitic=n   clitic=n         v   pn   pn  mod    v  case     clitic=n 
+
+Trans:	`there were in some parts that meat was kept, but this was not so good because many people before lived on fish, ginger was used in a religious ceremony.'
+
+====================================================================================================
+
+                0          1    2       3               4     5      6
+Text:         oo,          u   wa    khai         u-liwan   cha  yung.
+IPA:           ˀo         ˀu   wa    kʰaj        ˀu=liwan    ʧa    juŋ
+Gloss:  3sg.M.top  3sg.M.nom  NMZ  get.up  NF=return.home   ALL   home
+POS:           pn         pn  mod       v           der=v  case      n 
+
+Trans:	`that is one example, when the groom was taken by his family to his bride's house, he has to get up early in the morning and go back to his mother's house, this is
+
+====================================================================================================
+
+               0             1     2     3    4       5      6     7    8    9          10    11           12   13             14   15         16
+Text:      ki-lok        ki-jor   daw   wan  ki,      tæ    mut    da  yoo   ki         oo    da     chngaiñ  ki,          ka-tæ  toh  ka-burom.
+IPA:       ki=lɔk        ki=ʤɔr   daw   wan   ki      tɛ    mut    da   jo   ki         ˀo    da        ʧŋaʲɲ   ki          ka=tɛ  tɔʔ   ka=burɔm
+Gloss:  PL=friend  PL=associate   IRR  come  3pl    nvis  means  REAL  see  3pl  3sg.M.top  REAL  feel.secure  3pl         F=nvis   be  RES=honor
+POS:     clitic=n      clitic=n  mood     v   pn  deixis      v  mood    v   pn         pn  mood            v   pn  clitic=deixis    v      der=v 
+
+Trans:	`if he came later, his friends will feel uncomfortable but if he has to be there because he knew that his friends will come and when they saw him they felt
+
+====================================================================================================
+
+         0         1    2        3     4          5    6         7          8     9         10
+Text:    wa   pyrtuit   ki      nga   læh         ka   wa  pyrtuit,    ka-kong  noli  kyndiah.
+IPA:     wa  pr̩tuʲt̪   ki       ŋa   lɛʔ         ka   wa  pr̩tuʲt̪     ka=kɔŋ  nɔli   kn̩diaʔ
+Gloss:  NMZ      name  3pl  1sg.top  also  3sg.F.acc  NMZ      name    F=hon.F  Noli   Kyndiah
+POS:    mod         n   pn       pn   adv         pn  mod         n  clitic=pn  name      name 
+
+Trans:	`I was ill and she took care of me, this lady's name was Nolo Kyndiah, she's the one who gave me a name.'
+
+====================================================================================================
+
+             0        1        2       3       4        5    6        7       8          9     10       11   12    13                 14
+Text:      skur       o,      nga    jooh     man        o  toh      nga  sñiaw        kam    du      nga   wa    æm           mynsien.
+IPA:       skur       ˀɔ       ŋa     ʤoʔ     man       ˀɔ  tɔʔ       ŋa   sɲiaw        kam    du       ŋa   wa   ˀɛm            mn̩seʲn
+Gloss:   school  1sg.nom  1sg.top     HAB  become  1sg.nom   be  1sg.top   sense  like,want  only  1sg.top  NMZ  have  spirit,soul,heart
+POS:    english       pn       pn  aspect       v       pn    v       pn       v          v   adv       pn  mod     v                  n 
+
+Trans:	`I used to do yoga, and when I?m not studying yet, sometimes in my private thoughts i used to think that I?m the only one who has soul/life.'
+
+====================================================================================================
+
+                  0         1       2        3        4      5        6     7     8        9      10   11      12      13            14
+Text:           pher   i-rukom     man       o,      nga    mut        o   jan    du      nga     sæ   wa     man     bru        kamni.
+IPA:            pʰɛr  ˀi=rukɔm     man       ˀɔ       ŋa    mut       ˀɔ   ʤan    du       ŋa     sɛ   wa     man     bru        kam-ni
+Gloss:  be.different     N=way  become  1sg.nom  1sg.top  means  1sg.nom  hope  only  1sg.top  C.TAG  NMZ  become  person  as,like-prox
+POS:               v  clitic=n       v       pn       pn      v       pn     v   adv       pn      q  mod       v       n    adv-deixis 
+
+Trans:	`I felt that others are different from me and i from them, i thought that I'm the only one who's living like this.'
+
+====================================================================================================
+
+              0       1          2       3        4       5         6        7    8      9        10       11        12        13
+Text:   pyrkhat,      tæ   teintein    jooh  pyrkhat    jooh      booh        o    i  kylli    takit        o     i-won    i-won.
+IPA:     pr̩kʰat      tɛ   teʲnteʲn     ʤoʔ  pr̩kʰat     ʤoʔ       boʔ       ˀɔ   ˀi  kl̩li   tɔʔkɪt       ˀɔ    ˀi=wɔn    ˀi=wɔn
+Gloss:     think    nvis  sometimes     HAB    think     HAB  put,keep  1sg.nom  1pl    ask  request  1sg.nom   N=which   N=which
+POS:           v  deixis        loc  aspect        v  aspect         v       pn   pn      v        v       pn  clitic=n  clitic=n 
+
+Trans:	`after that i have so many things to make in my mind, i used to find ways and investigate about everything..'
+
+====================================================================================================
+
+          0               1    2      3        4        5        6        7          8      9       10            11
+Text:     æm     u-nonghikai   wa  hikai      nga      dro      dur        o         oo   jait     yn.        kamtæ.
+IPA:     ˀɛm    ˀu=nɔŋ-hikaj   wa  hikaj       ŋa      drɔ      dur       ˀɔ         ˀo  ʤaʲt̪      n̩        kam-tɛ
+Gloss:  have  M=ag.nmz-teach  NMZ  teach  1sg.top     draw  picture  1sg.nom  3sg.M.top   type     REF  as,like-nvis
+POS:       v    clitic=nmz-v  mod      v       pn  english        n       pn         pn      n  clitic    adv-deixis 
+
+Trans:	`as time went by, when i was studying, i used to draw picture, even in the classroom if there's a teacher i drew his picture.'
+
+====================================================================================================
+
+          0        1       2        3    4     5        6        7    8     9      10       11    12            13    14   15          16       17       18
+Text:    tip       o,     man      nga  læh    hi        o      nga  lai   cha  loom,      nga    la       ka-jong    hi  læh    exercise  martial     art.
+IPA:     tɪp       ˀɔ     man       ŋa  lɛʔ    hi       ˀɔ       ŋa  laj    ʧa    lom       ŋa    la        ka=ʤɔŋ    hi  lɛʔ  ˀɛksɛrsaʲs   marʃal     ˀart
+Gloss:  know  1sg.nom  become  1sg.top   do  EMPH  1sg.nom  1sg.top   go   ALL   hill  1sg.top    if         F=GEN  EMPH   do    exercise  martial      art
+POS:       v       pn       v       pn    v  ints       pn       pn    v  case      n       pn  conj  clitic=khasi  ints    v     english  english  english 
+
+Trans:	`no one knows about it in the beginning, even me, its my own idea, i used to go to the filed and practice martial arts
+
+====================================================================================================
+
+             0               1      2         3         4    5    6        7        8          9    10    11         12
+Text:       nga     ki-cassette     le     tylli  cassette   ki   wa      act    phlim         u,   ki  yong        oo.
+IPA:         ŋa        ki=kasɛt     le     tl̩li     kasɛt   ki   wa      ˀak    pʰlɪm         ˀu   ki   jɔŋ         ˀo
+Gloss:  1sg.top     PL=cassette  three  CL.piece  cassette  3pl  NMZ      act     film  3sg.M.nom  3pl   GEN  3sg.M.top
+POS:         pn  clitic=english    num      clsf   english   pn  mod  english  english         pn   pn  case         pn 
+
+Trans:	`just recently i went to Madras to meet him, he gave me three of his movies cassette.'
+
+====================================================================================================
+
+             0         1     2         3       4      5        6          7              8               9
+Text:       tæ    nadooh  snem  phraphaw  khynde  sdang        o        ka,          ka-ni      ka-herbal.
+IPA:        tɛ    na-doʔ  snɛm  pʰrapʰaw  kʰn̩de   sdaŋ       ˀɔ         ka          ka=ni       ka=hɛrbal
+Gloss:    nvis  ABL-when  year    eighty    nine  begin  1sg.nom  3sg.F.acc         F=prox        F=herbal
+POS:    deixis  case-loc     n       num     num      v       pn         pn  clitic=deixis  clitic=english 
+
+Trans:	`I started other works i.e preparing and selling medicine since the year 1989, selling herbal medicines.'
+
+====================================================================================================
+
+               0        1        2    3              4          5
+Text:         de   u-chim        o  ki.          ka-tæ  ka-bynta.
+IPA:          de   ˀu=ʧɪm       ˀɔ   ki          ka=tɛ   ka=bn̩ta
+Gloss:  neg.ints  NF=take  1sg.nom  3pl         F=nvis  F=purpose
+POS:         adv    der=v       pn   pn  clitic=deixis   clitic=n 
+
+Trans:	`so now i don't take the mild burning cases anymore.'
+
+====================================================================================================
+
+                 0       1     2     3        4    5
+Text:        katni      tæ    da  chæm        o  ki.
+IPA:        kat-ni      tɛ    da   ʧɛm       ˀɔ   ki
+Gloss:     as-prox    nvis  REAL  meet  1sg.nom  3pl
+POS:    adv-deixis  deixis  mood     v       pn   pn 
+
+Trans:	`so the main thing i concentrate, now are .', even cirrhosis is the main disease that the world nowadays tried to find medicine to cure it but i have found the
+
+====================================================================================================
+
+           0         1     2      3     4    5          6               7
+Text:     ha  ka-ktein  pnar     yi  khut   ki         ka      ka-cancer?
+IPA:      ha  ka=kteʲn  pnar     ji  kʰut   ki         ka       ka=kansar
+Gloss:   LOC    F=word  Pnar  thing  call  3pl  3sg.F.acc        F=cancer
+POS:    case  clitic=n     n      n     v   pn         pn  clitic=english 
+
+Trans:	`what is (does) cancer known as in pnar?..'
+
+====================================================================================================
+
+           0        1          2    3                4    5          6
+Text:   chæm        o         ka   wa          pyn-sih   ki  ki-thied.
+IPA:     ʧɛm       ˀɔ         ka   wa          pn̩-siʔ   ki    ki=tʰed
+Gloss:  meet  1sg.nom  3sg.F.acc  NMZ  CAUS-be.sad,bad  3pl    PL=root
+POS:       v       pn         pn  mod         prefix-v   pn   clitic=n 
+
+Trans:	`if they have no patiencethen it's a problem, many times at present people used to go tho the hospital, and they are given an injection or chæmo treatment, which
+
+====================================================================================================
+
+              0        1    2          3              4        5
+Text:         o     boon   ki         ka           i-tæ     boon
+IPA:         ˀɔ      bon   ki         ka          ˀi=tɛ      bon
+Gloss:  1sg.nom  be.much  3pl  3sg.F.acc         N=nvis  be.much
+POS:         pn        v   pn         pn  clitic=deixis        v 
+
+Trans:	`yes so many.'
+
+====================================================================================================
+
+              0         1     2          3    4    5    6       7          8     9          10
+Text:     ki-kot    ki-sla    na         ka    i   wa  toh   u-lai  interview    ha  calcutta.
+IPA:      ki=kɔt    ki=sla    na         ka   ˀi   wa  tɔʔ  ˀu=laj  ˀintɛrvju    ha    kalkata
+Gloss:   PL=book   PL=leaf   ABL  3sg.F.acc  1pl  NMZ   be   NF=go  interview   LOC   Calcutta
+POS:    clitic=n  clitic=n  case         pn   pn  mod    v   der=v    english  case       name 
+
+Trans:	`at that time i was fully concentrated on art, i make all the documents ready for an interview in calcutta.'
+
+====================================================================================================
+
+                   0     1        2     3           4          5        6    7     8              9              10
+Text:    ka-jingyarap    ya     nga,  phah      pathan          u      nga   ym   tip      che-i-won      chei-won.
+IPA:     ka=ʤiŋ-jarap    ja       ŋa  pʰaʔ      patʰan         ˀu       ŋa   m̩   tɪp      ʧe-ˀi=wɔn      ʧe-ˀi=wɔn
+Gloss:  F=ab.NMZ-help   BEN  1sg.top   ask  especially  3sg.M.nom  1sg.top  NEG  know    ALL-N=which    ALL-N=which
+POS:     clitic=nmz-v  case       pn     v         adv         pn       pn  neg     v  case-clitic=n  case-clitic=n 
+
+Trans:	`I didn't get any help here so i went to shillong but in shillong also there's no help for me, they sent me to someone else.'
+
+====================================================================================================
+
+                   0        1    2     3    4        5          6       7
+Text:        arhajar  chiphaw   ym    æm  yoh        o         ka  u-lai.
+IPA:       ˀar-haʤar   ʧipʰaw   m̩   ˀɛm  jɔʔ       ˀɔ         ka  ˀu=laj
+Gloss:  two-thousand      ten  NEG  have  get  1sg.nom  3sg.F.acc   NF=go
+POS:         num-num      num  neg     v    v       pn         pn   der=v 
+
+Trans:	`the seminar in Japan which was held on the 10/10/2010, i missed attending it.'
+
+====================================================================================================
+
+                     0        1               2    3        4    5           6          7              8         9
+Text:         ka-power    wagon        hei-yong    i      nga   wa         yah         ka           i-tæ    i-por.
+IPA:          ka=pawar    wagɔn       he-ˀi=jɔŋ   ˀi       ŋa   wa         jaʔ         ka          ˀi=tɛ    ˀi=pɔr
+Gloss:         F=power    wagon  LOC-N=be.black  1pl  1sg.top  NMZ  drive,lead  3sg.F.acc         N=nvis    N=time
+POS:    clitic=english  english   case-clitic=v   pn       pn  mod           v         pn  clitic=deixis  clitic=n 
+
+Trans:	`it was the power wagon, i drove that car.';.'
+
+====================================================================================================
+
+              0    1    2         3           4              5             6     7    8     9
+Text:         o    i   wa  nyngkong        dooh      ka-balang  presbyterian    se   wa  wan.
+IPA:         ˀɔ   ˀi   wa    nŋ̩kɔŋ         doʔ       ka=balaŋ  prɛsbitɛrian    sa   wa   wan
+Gloss:  1sg.nom  1pl  NMZ  be.first  completely  F=association  presbyterian  only  NMZ  come
+POS:         pn   pn  mod         v         adv       clitic=n          name  conj  mod     v 
+
+Trans:	`the first to came here was the presbyerian congregatioñ.; .'
+
+====================================================================================================
+
+               0       1         2          3         4              5     6        7        8          9
+Text:     hadien      tæ    ka-wan          u      u-yi           u-tu    da  mylliñ        o        oo.
+IPA:      ha-den      tɛ    ka=wan         ˀu     ˀu=ji          ˀu=tu    da   ml̩liɲ       ˀɔ         ˀo
+Gloss:  LOC-back    nvis  RES=come  3sg.M.nom   M=thing         M=medl  REAL   forget  1sg.nom  3sg.M.top
+POS:    case-loc  deixis     der=v         pn  clitic=n  clitic=deixis  mood        v       pn         pn 
+
+Trans:	`Church of God came when, what is that person's name i forgot.'; .'
+
+====================================================================================================
+
+               0    1          2                3
+Text:        bah   ki         ka         dei-bah.
+IPA:         baʔ   ki         ka        de-ˀi=baʔ
+Gloss:  be.great  3pl  3sg.F.acc  INST-N=be.great
+POS:           v   pn         pn    case-clitic=v 
+
+Trans:	`what i know is, the second aliens who came to reside in this vill was the Phawa clan, during that time my grandmother was back carried (like a baby).'
+
+====================================================================================================
+
+          0    1     2       3    4    5    6    7    8     9              10                  11
+Text:    noh   ki    da     man   ki   ki   wa   ar   ki   wan      sohchnong             hei-ni.
+IPA:     nɔʔ   ki    da     man   ki   ki   wa  ˀar   ki   wan       sɔʔ-ʧnɔŋ            he-ˀi=ni
+Gloss:  IMM1  3pl  REAL  become  3pl  3pl  NMZ  two  3pl  come  fruit-village          LOC-N=prox
+POS:     adv   pn  mood       v   pn   pn  mod  num   pn     v            n-n  case-clitic=deixis 
+
+Trans:	`I don't remember the year, i just remember when my grandmother was carried here, they were the second to come and reside here.'
+
+====================================================================================================
+
+                         0          1         2          3          4     5        6
+Text:              chei-ni         ka      u-pa         ko          u  yong  pyrtuh.
+IPA:              ʧe-ˀi=ni         ka     ˀu=pa         kɔ         ˀu   jɔŋ   pr̩tuʔ
+Gloss:          ALL-N=prox  3sg.F.acc  M=father  3sg.F.nom  3sg.M.nom   GEN   Pyrtuh
+POS:    case-clitic=deixis         pn  clitic=n         pn         pn  case     name 
+
+Trans:	`my mother died when she was 92 years old, she was born here and her father was a pyrtuh.'
+
+====================================================================================================
+
+             0          1    2        3    4          5       6
+Text:      man          u   wa     mane   ki          u     tæ'
+IPA:       man         ˀu   wa     mane   ki         ˀu      tɛ
+Gloss:  become  3sg.M.nom  NMZ  worship  3pl  3sg.M.nom    nvis
+POS:         v         pn  mod        v   pn         pn  deixis 
+
+Trans:	`Did they worship him.'
+
+====================================================================================================
+
+         0    1                  2    3    4    5    6    7                  8     9      10               11
+Text:    wa  yoh         niangthoh,  ong   ki   ki   wa  yoh          niangthoh   cha  tuber         dei-bah.
+IPA:     wa  jɔʔ           niaŋtʰɔʔ  ˀɔŋ   ki   ki   wa  jɔʔ           niaŋtʰɔʔ    ʧa  tubɛr        de-ˀi=baʔ
+Gloss:  NMZ  get  spotted.infection  say  3pl  3pl  NMZ  get  spotted.infection   ALL  Tuber  INST-N=be.great
+POS:    mod    v                  n    v   pn   pn  mod    v                  n  case   name    case-clitic=v 
+
+Trans:	`yes, even our grand uncle was lame, he went to tuber and was lame due to the disease called 'niangthoh',..'
+
+====================================================================================================
+
+             0            1       2    3       4       5    6          7
+Text:      man          kba      tæ   ym  sñiaw   æmkam   ki        ka.
+IPA:       man          kba      tɛ   m̩   sɲiaw  ˀɛmkam   ki         ka
+Gloss:  become  rice[paddy]    nvis  NEG   sense    need  3pl  3sg.F.acc
+POS:         v            n  deixis  neg       v       v   pn         pn 
+
+Trans:	`this field here was useless since the production/harvest was not so good.'
+
+====================================================================================================
+
+            0           1              2              3     4    5          6    7     8      9             10   11
+Text:       tæ       manna          ka-ni      ka-beipun  yong    i         ka   wa    na  mynso         i-tre  ki.
+IPA:        tɛ      man-na          ka=ni      ka=bejpun   jɔŋ   ˀi         ka   wa    na  mn̩so        ˀi=tre   ki
+Gloss:    nvis  become-ABL         F=prox  F=grandmother   GEN  1pl  3sg.F.acc  NMZ   ABL  Mynso  ACT=original  3pl
+POS:    deixis      v-case  clitic=deixis       clitic=n  case   pn         pn  mod  case   name         der=v   pn 
+
+Trans:	`my grandpa bought it during the time when there were many cattles, my granpa was a lone man he was an orphan, my grandma originally hail from Mynso.'
+
+====================================================================================================
+
+               0       1      2    3             4         5    6          7     8       9
+Text:     yakhih   mylla  surok   ki        kamtu,    yachem   ki         ka   cha  mynso.
+IPA:     ja-kʰiʔ   ml̩la  surɔk   ki        kam-tu    ja-ʧɛm   ki         ka    ʧa   mn̩so
+Gloss:  BEN-work  gather   road  3pl  as,like-medl  BEN-meet  3pl  3sg.F.acc   ALL   Mynso
+POS:    prefix-v       v      n   pn    adv-deixis  prefix-v   pn         pn  case    name 
+
+Trans:	`they met in mynso during the times when they are road labourers.'
+
+====================================================================================================
+
+                 0              1    2       3      4          5     6       7       8    9          10            11
+Text:           kba          thung   i,      tæ   bnai  christmas   wan   khloh      yn    i        oo.        kamtæ.
+IPA:            kba           tʰuŋ   ˀi      tɛ   bnaj    krismas   wan   kʰlɔʔ      n̩   ˀi         ˀo        kam-tɛ
+Gloss:  rice[paddy]  plant,appoint  1pl    nvis  month  Christmas  come  dig.up     REF  1pl  3sg.M.top  as,like-nvis
+POS:              n              v   pn  deixis      n    english     v       v  clitic   pn         pn    adv-deixis 
+
+Trans:	`after paddy followed the garlic, after that the winter potato was cultivated before harvest, in Christmas month it was dug..'
+
+====================================================================================================
+
+                   0       1        2    3    4     5    6          7             8          9          10             11        12     13
+Text:           ka-tæ  ka-lai     skur   ym   pu   tip    i        ka,      u-li-ong      u-poi        kam          ki-ni    ki-por    sæ.
+IPA:            ka=tɛ  ka=laj     skur   m̩   pu   tɪp   ˀi         ka     ˀu=li-ˀɔŋ     ˀu=pɔj        kam          ki=ni    ki=pɔr     sɛ
+Gloss:         F=nvis  RES=go   school  NEG  not  know  1pl  3sg.F.acc    NF=DUR-say  NF=arrive  like,want        PL=prox   PL=time  C.TAG
+POS:    clitic=deixis   der=v  english  neg  neg     v   pn         pn  der=prefix-v      der=v          v  clitic=deixis  clitic=n      q 
+
+Trans:	`we were trained to become a farmer, we don't know about schools, we don't think that a time like the present will come.'
+
+====================================================================================================
+
+                0          1     2              3           4     5     6    7    8       9
+Text:          ka         ka    da          ka-ni     ka-dien   kti  yong   ki   wa    rim.
+IPA:           ka         ka    da          ka=ni      ka=den   kti   jɔŋ   ki   wa     rɪm
+Gloss:  3sg.F.acc  3sg.F.acc  INST         F=prox      F=back  hand   GEN  3pl  NMZ  be.old
+POS:           pn         pn  case  clitic=deixis  clitic=loc     n  case   pn  mod       v 
+
+Trans:	`the problem faced at present is that the handprints of the elders is not followed anymore.'
+
+====================================================================================================
+
+              0    1       2     3      4          5    6       7    8          9       10     11          12
+Text:     kynmoo  phi    dang    æm  symbe          u  phi      tu   wa        ræp   salah    bha      katni'
+IPA:       kn̩mo  pʰi     daŋ   ˀɛm  sm̩be         ˀu  pʰi      tu   wa        rɛp   salaʔ    bha      kat-ni
+Gloss:  remember  2pl    CONT  have   seed  3sg.M.nom  2pl    medl  NMZ  cultivate  potato  INTS1     as-prox
+POS:           v   pn  aspect     v      n         pn   pn  deixis  mod          v       n    adv  adv-deixis 
+
+Trans:	`Do you still have the seed of this potato .'
+
+====================================================================================================
+
+          0          1        2         3    4     5
+Text:   phi         oo    katwa      booh  phi  læh.
+IPA:    pʰi         ˀo   kat-wa       boʔ  pʰi   lɛʔ
+Gloss:  2pl  3sg.M.top   as-NMZ  put,keep  2pl  also
+POS:     pn         pn  adv-mod         v   pn   adv 
+
+Trans:	`if you stil have it it was a very good one never gets rotten even if you kept it for long.'
+
+====================================================================================================
+
+             0            1       2        3          4               5     6         7           8      9
+Text:       tæ        manda     dæp        o         ka     u-registar,    ha    u-snæm  khyndephaw    le.
+IPA:        tɛ       man-da     dɛp       ˀɔ         ka     ˀu=rɛʤistar    ha   ˀu=snɛm  kʰn̩depʰaw     le
+Gloss:    nvis  become-REAL    CPLV  1sg.nom  3sg.F.acc      M=register   LOC    M=year      ninety  three
+POS:    deixis       v-mood  aspect       pn         pn  clitic=english  case  clitic=n         num    num 
+
+Trans:	`So when i finish to register in the year 93.'
+
+====================================================================================================
+
+                      0    1    2       3       4       5        6        7          8               9
+Text:         dei-khiah  kat   wa    dang  tymmæn    dang    enjoy        o        ka,     ka-culture.
+IPA:        de-ˀi=kʰiaʔ  kat   wa     daŋ  tm̩mɛn     daŋ   ˀɛnʤɔj       ˀɔ         ka       ka=kɔlʧɔr
+Gloss:  INST-N=be.whole   as  NMZ    CONT  be.old    CONT    enjoy  1sg.nom  3sg.F.acc       F=culture
+POS:      case-clitic=v  adv  mod  aspect       v  aspect  english       pn         pn  clitic=english 
+
+Trans:	`even me, i want to preserve this culture of mine, and because of that i don't feel bad/down but some, for example, on this thirtieth date when i participated in the
+
+====================================================================================================
+
+          0        1    2    3    4        5    6    7           8    9     10             11      12   13   14   15        16       17
+Text:     ha       o,   ki   wa  yoh  yuspong   ki   wa     mahajon  toh  dooh          ki-tæ  donhi,   ki   wa  yoh   u-thied  yuspong
+IPA:      ha       ˀɔ   ki   wa  jɔʔ   juspɔŋ   ki   wa    ma-haʤɔn  tɔʔ   doʔ          ki=tɛ   dɔnhi   ki   wa  jɔʔ   ˀu=tʰed   juspɔŋ
+Gloss:   LOC  1sg.nom  3pl  NMZ  get   turban  3pl  NMZ  hon.M-rich   be  lose        PL=nvis    only  3pl  NMZ  get    M=root   turban
+POS:    case       pn   pn  mod    v        n   pn  mod      pn-adj    v     v  clitic=deixis    conj   pn  mod    v  clitic=n        n 
+
+Trans:	`Yes, only rich people can afford to buy the turban.'
+
+====================================================================================================
+
+           0         1          2        3           4              5
+Text:    rap     khien         ka     nga,        sanæ          ka-ni
+IPA:     rap     kʰian         ka       ŋa       sa-nɛ          ka=ni
+Gloss:  grow  be.small  3sg.F.acc  1sg.top  only-D.TAG         F=prox
+POS:       v         v         pn       pn      conj-q  clitic=deixis 
+
+Trans:	`this one is a little bit small for me.'
+
+====================================================================================================
+
+                    0              1          2        3           4
+Text:           ka-tæ       rapkhien         ka     nga,       sanæ?
+IPA:            ka=tɛ      rap-kʰian         ka       ŋa       sa-nɛ
+Gloss:         F=nvis  grow-be.small  3sg.F.acc  1sg.top  only-D.TAG
+POS:    clitic=deixis            v-v         pn       pn      conj-q 
+
+Trans:	`this one is a bit small for me.'
+
+====================================================================================================
+
+          0    1
+Text:     i  ki.
+IPA:     ˀi   ki
+Gloss:  1pl  3pl
+POS:     pn   pn 
+
+Trans:	`they used to wear this during the Behdeiñkhlam festival, they dance wearing these clothes.'
+
+====================================================================================================
+
+           0              1     2    3          4             5       6           7       8
+Text:    to.          ka-ni  khut   ki        ka,      ka-yusæm  deisi.       yusæm  deisi.
+IPA:      tɔ          ka=ni  kʰut   ki         ka      ka=jusɛm   dejsi       jusɛm   dejsi
+Gloss:    ok         F=prox  call  3pl  3sg.F.acc  F=cloth.wrap   Deisi  cloth.wrap   Deisi
+POS:    conf  clitic=deixis     v   pn         pn      clitic=n    name           n    name 
+
+Trans:	`ok, they call this Deisi sari. Desi sari.'
+
+====================================================================================================
+
+             0    1        2              3            4     5            6     7       8         9    10   11
+Text:       nga  yoo        o         ki-tai     ki-dhara    æm  ki-chynrang   læh    jooh  pynæmkam  ki,   ki
+IPA:         ŋa   jo       ˀɔ         ki=taj     ki=dhara   ˀɛm    ki=ʧn̩raŋ   lɛʔ     ʤoʔ  pn̩ɛmkam   ki   ki
+Gloss:  1sg.top  see  1sg.nom      PL=distal     PL=dhara  have      PL=male  also     HAB       use  3pl  3pl
+POS:         pn    v       pn  clitic=deixis  clitic=name     v     clitic=n   adv  aspect         v   pn   pn 
+
+Trans:	`i see that even some men used to use (pynæm kam) those dhara.'
+
+====================================================================================================
+
+                0    1       2    3     4         5     6      7
+Text:          me   ki   tynne   ki  yong     u-pa,    na    sæ.
+IPA:           me   ki   tn̩ne   ki   jɔŋ     ˀu=pa    na     sɛ
+Gloss:  2sg.M.acc  3pl  before  3pl   GEN  M=father   ABL  C.TAG
+POS:           pn   pn     loc   pn  case  clitic=n  case      q 
+
+Trans:	`these rusom are light yellow (stæm lung) just like the ones i told you (me) about earlier (tynne), the ones that belong to my father.'
+
+====================================================================================================
+
+         0     1    2     3    4     5    6    7       8             9         10                  11   12      13   14   15   16           17
+Text:   yoo   hi,   ki   wan   ki   wan   ki   wa     man     ki-maloi,      booh             mynchit   ym    jooh  ong    i  ki,  ki-kyllung.
+IPA:     jo    hi   ki   wan   ki   wan   ki   wa     man      ki=maloj       boʔ             mn̩-ʧɪt   m̩     ʤoʔ  ˀɔŋ   ˀi   ki    ki=kl̩luŋ
+Gloss:  see  EMPH  3pl  come  3pl  come  3pl  NMZ  become  PL=bowl.type  put,keep  after,irrealis-hot  NEG     HAB  say  1pl  3pl   PL=Kyllung
+POS:      v  ints   pn     v   pn     v   pn  mod       v      clitic=n         v              mood-v  neg  aspect    v   pn   pn  clitic=name 
+
+Trans:	`see, any (ki wan ki wan ki wa man) maloi, which is used for storing curry/gravy/stew (mynchit), we never call them-kyllung-(bowl of steel).'
+
+====================================================================================================
+
+                   0         1           2     3     4       5    6          7    8    9             10     11
+Text:           ki-ni    hadooh       katni  sngi   læh    dang  læh       niam   ki  ki,         kamtu    sæ.
+IPA:            ki=ni    ha-doʔ      kat-ni   sŋi   lɛʔ     daŋ  lɛʔ       niam   ki   ki        kam-tu     sɛ
+Gloss:        PL=prox  LOC-when     as-prox   day  also    CONT   do  tradition  3pl  3pl  as,like-medl  C.TAG
+POS:    clitic=deixis  case-loc  adv-deixis     n   adv  aspect    v          n   pn   pn    adv-deixis      q 
+
+Trans:	`these are still used until today, during religious ceremonies (læh niam), like this ok.'
+
+====================================================================================================
+
+                0          1        2     3          4     5              6           7           8
+Text:          ka         u,   battai    ya         u,    ya          ka-tu    ka-weiñ    ka-weiñ
+IPA:           ka         ˀu    bataj    ja         ˀu    ja          ka=tu     ka=weʲɲ     ka=weʲɲ
+Gloss:  3sg.F.acc  3sg.M.nom  explain   BEN  3sg.M.nom   BEN         F=medl  F=pot.type  F=pot.type
+POS:           pn         pn        v  case         pn  case  clitic=deixis    clitic=n    clitic=n 
+
+Trans:	`explain to him about that-weiñ-.'
+
+====================================================================================================
+
+           0    1       2      3     4        5    6
+Text:    læh  kat   u-yoh  symbe    æh        o  ki.
+IPA:     lɛʔ  kat  ˀu=jɔʔ  sm̩be   ˀɛʔ       ˀɔ   ki
+Gloss:  also   as  NF=get   seed  IMM2  1sg.nom  3pl
+POS:     adv  adv   der=v      n   adv       pn   pn 
+
+Trans:	`nowadays they are no more, even if you want them, you can-t find them, this also i-ve only got this one specimen/remnant of them.'
+
+====================================================================================================
+
+               0    1    2              3        4        5              6        7         8    9          10
+Text:           u   wa  toh       hei-sait    thad,      nei      he-i-sait     thad  pynæmkam   ki        oo.
+IPA:           ˀu   wa  tɔʔ     he-ˀi=sat̪     tʰad    ne-ˀi     he-ˀi=sat̪     tʰad  pn̩ɛmkam   ki         ˀo
+Gloss:  3sg.M.nom  NMZ   be     LOC-N=wash  clothes  ABL-1pl     LOC-N=wash  clothes       use  3pl  3sg.M.top
+POS:           pn  mod    v  case-clitic=v        n  case-pn  case-clitic=v        n         v   pn         pn 
+
+Trans:	`which is for washing clothes, it (oo) is used (pynæm kam) for washing clothes.'
+
+====================================================================================================
+
+           0        1          2     3
+Text:    him        o        ka,   mo?
+IPA:     hɪm       ˀɔ         ka    mɔ
+Gloss:  take  1sg.nom  3sg.F.acc  QTAG
+POS:       v       pn         pn     q 
+
+Trans:	`i-ll take it, ok?.'
+
+====================================================================================================
+
+                        0             1    2          3                   4     5     6       7         8            9     10   11    12
+Text:             chei-tai    u-khyrwait  phi        ka,           chei-tai,   mm.   to,   kylla   pyn-toh          kse    æh  chi   sur
+IPA:             ʧe-ˀi=taj  ˀu=kʰr̩waʲt̪  pʰi         ka           ʧe-ˀi=taj    mm    tɔ   kl̩la   pn̩-tɔʔ          kse   ˀɛʔ   ʧi   sur
+Gloss:        ALL-N=distal      NF=twist  2pl  3sg.F.acc        ALL-N=distal    mm    ok  change   CAUS-be  thread,rope  IMM2  set  song
+POS:    case-clitic=deixis         der=v   pn         pn  case-clitic=deixis  conf  conf       v  prefix-v            n   adv  num     n 
+
+Trans:	`twist it that side, that side, mm. ok, just (kylla), touch the string, only a song (sur).'
+
+====================================================================================================
+
+                     0    1          2
+Text:            u-tæm  phi        ka.
+IPA:            ˀu=tɛm  pʰi         ka
+Gloss:  NF=pluck,strum  2pl  3sg.F.acc
+POS:             der=v   pn         pn 
+
+Trans:	`this, ok. then this when we (something) it, we have to do like that, ok. you play it here.'
+
+====================================================================================================
+
+              0     1       2    3        4          5
+Text:   sanphaw  snæm      tæ  yoh        o        ka.
+IPA:    sanpʰaw  snɛm      tɛ  jɔʔ       ˀɔ         ka
+Gloss:    fifty  year    nvis  get  1sg.nom  3sg.F.acc
+POS:        num     n  deixis    v       pn         pn 
+
+Trans:	`One who knows... (what is it called) the-ramyntheiñ-. That, ok. This i got it when i reached 50 years.'
+
+====================================================================================================
+
+          0          1    2          3     4              5
+Text:   toh       choh   ki         ka    da          ki-ni
+IPA:    tɔʔ        ʧɔʔ   ki         ka    da          ki=ni
+Gloss:   be  hit,punch  3pl  3sg.F.acc  INST        PL=prox
+POS:      v          v   pn         pn  case  clitic=deixis 
+
+Trans:	`because elephants were present they beat these. These, ok, i-ll show you. These they beat them with these.'
+
+====================================================================================================
+
+                   0     1         2     3    4    5     6          7    8    9     10         11   12      13
+Text:           ki-ni  wan,  pynæmkam   wan   ki  ki,    ha         ka   wa  tah    ha         ka   wa  daiñ.
+IPA:            ki=ni   wan  pn̩ɛmkam   wan   ki   ki    ha         ka   wa  taʔ    ha         ka   wa    daʲɲ
+Gloss:        PL=prox  come       use  come  3pl  3pl   LOC  3sg.F.acc  NMZ  cut   LOC  3sg.F.acc  NMZ     cut
+POS:    clitic=deixis     v         v     v   pn   pn  case         pn  mod    v  case         pn  mod       v 
+
+Trans:	`these ones, they used them in chopping (daiñ) and skinning (tah) .'
+
+====================================================================================================
+
+             0            1       2    3    4          5              6         7    8     9              10        11      12            13
+Text:      boon         sein    jooh  læh   ki         oo           u-ni  pynæmkam  ki,    ha          ki-ni   ki-yung  phlang        kamni.
+IPA:        bon         seʲn     ʤoʔ  lɛʔ   ki         ˀo          ˀu=ni  pn̩ɛmkam   ki    ha          ki=ni    ki=juŋ   pʰlaŋ        kam-ni
+Gloss:  be.much  time,action     HAB   do  3pl  3sg.M.top         M=prox       use  3pl   LOC        PL=prox   PL=home   grass  as,like-prox
+POS:          v            n  aspect    v   pn         pn  clitic=deixis         v   pn  case  clitic=deixis  clitic=n       n    adv-deixis 
+
+Trans:	`most of the time they use this, in the thatched houses (yung phlang) like this.'
+
+====================================================================================================
+
+            0    1          2              3            4       5    6     7          8          9      10
+Text:       tæ  yoo         ka          u-te,       u-luwa    jooh  yoo    hi         mi        oo,  nong?
+IPA:        tɛ   jo         ka          ˀu=te      ˀu=luwa     ʤoʔ   jo    hi         mi         ˀo    nɔŋ
+Gloss:    nvis  see  3sg.F.acc        M=mprox       M=luwa     HAB  see  EMPH  2sg.M.nom  3sg.M.top   conf
+POS:    deixis    v         pn  clitic=deixis  clitic=name  aspect    v  ints         pn         pn      q 
+
+Trans:	`then see like that, the-luwa-, have you ever seen it?'
+
+====================================================================================================
+
+          0     1    2    3
+Text:   læh    hi    i  ki.
+IPA:    lɛʔ    hi   ˀi   ki
+Gloss:   do  EMPH  1pl  3pl
+POS:      v  ints   pn   pn 
+
+Trans:	`after that, then this is a standing (pynyeiñ)-tadong-(bamboo vessel). These tadong pyn-yeiñ these they used to do/make/use them.'
+
+====================================================================================================
+
+          0           1      2     3     4     5          6          7         8     9              10
+Text:    to,       kattu  chooh    da   tip    hi         mi         ka  u-chang.   (æm        u-khoh)
+IPA:      tɔ      kat-tu    ʧoʔ    da   tɪp    hi         mi         ka    ˀu=ʧaŋ   ˀɛm        ˀu=kʰɔʔ
+Gloss:    ok     as-medl   more  REAL  know  EMPH  2sg.M.nom  3sg.F.acc  M=basket  have  M=cone.basket
+POS:    conf  adv-deixis    num  mood     v  ints         pn         pn  clitic=n     v       clitic=n 
+
+Trans:	`ok, now you know everything about this basket. (you have this-khoh-basket)" (2:22) (2:29).'
+
+====================================================================================================
+
+                   0     1     2              3    4               5    6    7    8         9               10     11    12    13    14
+Text:          u-khoh    ha   mm.          u-ni,  ong         ki-khoh  lai    i  ki,       dei         ki-khoh  chru,   mm,  pait   mo.
+IPA:          ˀu=kʰɔʔ    ha    mm          ˀu=ni  ˀɔŋ         ki=kʰɔʔ  laj   ˀi   ki     de-ˀi         ki=kʰɔʔ    ʧru    mm  pat̪    mɔ
+Gloss:  M=cone.basket   LOC    mm         M=prox  say  PL=cone.basket   go  1pl  3pl  INST-1pl  PL=cone.basket   chru    mm  look  QTAG
+POS:         clitic=n  case  conf  clitic=deixis    v        clitic=n    v   pn   pn   case-pn        clitic=n   name  conf     v     q 
+
+Trans:	`the-khoh-, yes. this, see these-khoh-we go these, from the-khoh chru-, mm, look ok..'
+
+====================================================================================================
+
+          0              1         2          3    4     5            6    7       8             9    10   11           12        13             14
+Text:    to,         ki-ni,      tang   kattynde   ym    æm         khoh  lai     yaw     khyrngang    i  ki,         khoh  chyrmang         ki-ni.
+IPA:      tɔ          ki=ni       taŋ  kat-tn̩de   m̩   ˀɛm         kʰɔʔ  laj     jaw       kʰr̩ŋaŋ   ˀi   ki         kʰɔʔ    ʧr̩maŋ          ki=ni
+Gloss:    ok        PL=prox  but,even  as-before  NEG  have  cone.basket   go  market  at.same.time  1pl  3pl  cone.basket  chyrmang        PL=prox
+POS:    conf  clitic=deixis      conj    adv-loc  neg     v            n    v       n           adv   pn   pn            n      name  clitic=deixis 
+
+Trans:	`ok, these, but in olden times they didn-t have market baskets, so the same one they used for both purposes (khyrngang). these are-khoh chyrmang.'
+
+====================================================================================================
+
+            0           1    2    3     4     5      6      7       8             9      10    11       12      13   14   15     16
+Text:       tæ       katni  kat   wa    da    æm  kari,    yi,      tæ       jingmut  waroh    da  mylliñ     lut   ki   ki    sæ?
+IPA:        tɛ      kat-ni  kat   wa    da   ˀɛm   kari     ji      tɛ       ʤiŋ-mut  warɔʔ    da   ml̩liɲ     lut   ki   ki     sɛ
+Gloss:    nvis     as-prox   as  NMZ  REAL  have    car  thing    nvis  ab.NMZ-means    all  REAL   forget  finish  3pl  3pl  C.TAG
+POS:    deixis  adv-deixis  adv  mod  mood     v  hindi      n  deixis         nmz-v    num  mood        v       v   pn   pn      q 
+
+Trans:	`so now, since there are cars, so it means they all forget everything (mylliñ lut) about them ok?.'
+
+====================================================================================================
+
+           0    1    2          3         4          5
+Text:    rap  yoh  phi         ka    charum    chawah.
+IPA:     rap  jɔʔ  pʰi         ka    ʧa-rum     ʧa-waʔ
+Gloss:  grow  get  2pl  3sg.F.acc  ALL-down  ALL-river
+POS:       v    v   pn         pn  case-loc     case-n 
+
+Trans:	`so you see now, this will be available only in Musiang (market), otherwise (mei-tæ) you won-t find it anywhere (charum chawah-down and up).'
+
+====================================================================================================
+
+          0          1        2        3          4          5     6         7
+Text:   ong         oo  pyrthai   lyngba          u         ka    ya  internet
+IPA:    ˀɔŋ         ˀo  pr̩tʰaj    lŋ̩ba         ˀu         ka    ja  intarnɛt
+Gloss:  say  3sg.M.top    world  through  3sg.M.nom  3sg.F.acc   BEN  internet
+POS:      v         pn        n      loc         pn         pn  case   english 
+
+Trans:	` .'
+
+====================================================================================================
+
+          0         1    2        3       4          5         6       7     8    9          10            11
+Text:     ha  chalong,  ar,   arphaw    dung         ka  chisngi,   kynta  pait   ki        ka.        kamtæ.
+IPA:      ha    ʧa-lɔŋ  ˀar  ˀarpʰaw     duŋ         ka    ʧi-sŋi   kn̩ta  pat̪   ki         ka        kam-tɛ
+Gloss:   LOC  ALL-life  two   twenty  pierce  3sg.F.acc   one-day  return  look  3pl  3sg.F.acc  as,like-nvis
+POS:    case    case-n  num      num       v         pn     num-n       v     v   pn         pn    adv-deixis 
+
+Trans:	` .'
+
+====================================================================================================
+
+                        0    1    2    3    4     5              6    7          8     9     10         11         12    13             14         15     16    17
+Text:              nei-tæ,   ym  lai  lai    i    da          ka-tæ    i         ko    da   wan          u         ko   alæ          ka-tæ         ka    don   hi.
+IPA:              ne-ˀi=tɛ   m̩  laj  laj   ˀi    da          ka=tɛ   ˀi         kɔ    da   wan         ˀu         kɔ  ˀalɛ          ka=tɛ         ka    dɔn    hi
+Gloss:          ABL-N=nvis  NEG   go   go  1pl  INST         F=nvis  1pl  3sg.F.nom  REAL  come  3sg.M.nom  3sg.F.nom  come         F=nvis  3sg.F.acc   have  EMPH
+POS:    case-clitic=deixis  neg    v    v   pn  case  clitic=deixis   pn         pn  mood     v         pn         pn     v  clitic=deixis         pn  khasi  ints 
+
+Trans:	` .'
+
+====================================================================================================
+

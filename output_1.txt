@@ -1,0 +1,500 @@
+                  0              1    2    3    4     5     6        7      8
+Text:     u-mookhai           kitæ  toh   ki   wa    æm    ha   chnong  jwai.
+IPA:     ˀu=mookʰaj          ki=tɛ  tɔʔ   ki   wa   ˀɛm    ha     ʧnɔŋ   ʤwaj
+Gloss:    M=Mookhai        PL=nvis   be  3pl  NMZ  have   LOC  village  Jowai
+POS:    clitic=name  clitic=deixis    v   pn  mod     v  case        n   name 
+
+Trans:	`there is also that four diversion i.e. mooralong, moosniang, mooting and mookhai all these is in jowai town..'
+
+====================================================================================================
+
+          0        1       2                   3       4     5       6     7         8        9      10
+Text:    cha   chnong     dæp              lei-tæ      tæ    da     hæh    hi   ki-khon        o  waroh
+IPA:      ʧa     ʧnɔŋ     dɛp            ne-ˀi=tɛ      tɛ    da     hɛʔ    hi   ki=kʰɔn       ˀɔ  warɔʔ
+Gloss:   ALL  village    CPLV          ABL-N=nvis    nvis  REAL  be.big  EMPH  PL=child  1sg.nom    all
+POS:    case        n  aspect  case-clitic=deixis  deixis  mood       v  ints  clitic=n       pn    num 
+
+Trans:	`when arriving from Belfont, so there isn't anyone to go, so I just sit in the village and all my children grew bigger.'
+
+====================================================================================================
+
+                    0    1           2        3       4        5          6             7        8
+Text:         hei-por   wa       katni      nga     man        o         ka     u-rangbah   chnong
+IPA:        he-ˀi=pɔr   wa      kat-ni       ŋa     man       ˀɔ         ka     ˀu=raŋbaʔ     ʧnɔŋ
+Gloss:     LOC-N=time  NMZ     as-prox  1sg.top  become  1sg.nom  3sg.F.acc     M=headman  village
+POS:    case-clitic=n  mod  adv-deixis       pn       v       pn         pn  clitic=khasi        n 
+
+Trans:	`so I am honored... what's his name? Hairam, Hiriam, with honor to Mr. Hiriam who wants to learn especially of the history at this time, so like this/now I
+
+====================================================================================================
+
+          0              1            2        3              4    5       6          7          8             9        10
+Text:     ya           u-ni      u-chwas  lyngdoh        hei-por   wa     man          u        kam     u-rangbah   chnong
+IPA:      ja          ˀu=ni      ˀu=ʧwas   lŋ̩dɔʔ      he-ˀi=pɔr   wa     man         ˀu        kam     ˀu=raŋbaʔ     ʧnɔŋ
+Gloss:   BEN         M=prox     M=Chawas  Lyngdoh     LOC-N=time  NMZ  become  3sg.M.nom  like,want     M=headman  village
+POS:    case  clitic=deixis  clitic=name        n  case-clitic=n  mod       v         pn          v  clitic=khasi        n 
+
+Trans:	`so first, before becoming the village headman I was the village treasurer for five years for Chawas Lyngdoh when he was the village headman
+
+====================================================================================================
+
+              0        1
+Text:   rangbah   chnong
+IPA:     raŋbaʔ     ʧnɔŋ
+Gloss:  headman  village
+POS:      khasi        n 
+
+Trans:	`so before being/doing the Daloi, Chawas Lyngdoh then, so I had become the as the treasurer of Raliang village, so they told me to join in the work and become
+
+====================================================================================================
+
+                         0      1    2        3          4        5        6
+Text:              paidbah  baroh  toh      nga      u-man  rangbah   chnong
+IPA:               paitbaʔ  warɔʔ  tɔʔ       ŋa     ˀu=man   raŋbaʔ     ʧnɔŋ
+Gloss:  crowd,congregation    all   be  1sg.top  NF=become  headman  village
+POS:                     n    num    v       pn      der=v    khasi        n 
+
+Trans:	`so when they voted for me as the village headman, that whole crowd, I became the village headman
+
+====================================================================================================
+
+                  0        1      2     3        4     5    6              7         8         9         10         11       12
+Text:      u-rangbah   chnong     yi   yee        o   læh  kat           u-ni    u-khon    u-paid  u-phlang  ka-chnong  raliang
+IPA:       ˀu=raŋbaʔ     ʧnɔŋ     ji    je       ˀɔ   lɛʔ  kat          ˀu=ni   ˀu=kʰɔn   ˀu=pait  ˀu=pʰlaŋ    ka=ʧnɔŋ   raliaŋ
+Gloss:     M=headman  village  thing  able  1sg.nom  also   as         M=prox   M=child  M=people   M=grass  F=village  Raliang
+POS:    clitic=khasi        n      n     v       pn   adv  adv  clitic=deixis  clitic=n  clitic=n  clitic=n   clitic=n        n 
+
+Trans:	`so I have no will to work,I kept thinking during my time as the headman what can I do for the children and people of the village raliang.'
+
+====================================================================================================
+
+              0     1         2      3
+Text:    chnong    da    u-bnai  dkhar
+IPA:       ʧnɔŋ    da   ˀu=bnaj  dkʰar
+Gloss:  village  INST   M=month  Dkhar
+POS:          n  case  clitic=n   name 
+
+Trans:	`truly, the ever knowing lord who created me,and because, meaning there is one pending case of the village raliang-mookhap at that time from the year that bnai
+
+====================================================================================================
+
+             0          1        2     3        4    5     6              7         8
+Text:      man  secretary   chnong    ya      nga  læh    ha          ka-tæ    ka-por
+IPA:       man  sɛkrɛtɛri     ʧnɔŋ    ja       ŋa  lɛʔ    ha          ka=tɛ    ka=pɔr
+Gloss:  become  secretary  village   BEN  1sg.top   do   LOC         F=nvis    F=time
+POS:         v    english        n  case       pn    v  case  clitic=deixis  clitic=n 
+
+Trans:	`so I instigate the residents. All the resident truly got excited,since through the local authority and myself at the time,and the secretary under me at the time.'
+
+====================================================================================================
+
+             0      1     2        3     4              5            6
+Text:      man   thaw  yong   chnong    ya         ka-tai   ka-pyntein
+IPA:       man   tʰaw   jɔŋ     ʧnɔŋ    ja         ka=taj   ka=pn̩teʲn
+Gloss:  become  place   GEN  village   BEN       F=distal    F=Pyntein
+POS:         v      n  case        n  case  clitic=deixis  clitic=name 
+
+Trans:	`was this guy tipki suchiang, so the voice of the residents echoed and they(residents) agreed to make pyntein our land our forest.'
+
+====================================================================================================
+
+             0          1             2        3
+Text:   thymme         ka     u-rongbah  chnong.
+IPA:    tʰm̩me         ka     ˀu=raŋbaʔ     ʧnɔŋ
+Gloss:  be.new  3sg.F.acc     M=headman  village
+POS:         v         pn  clitic=khasi        n 
+
+Trans:	`but that�s ok, at that time we got !lakh 50 thousand to improve the club and it was a relief to some extend, then time goes by and it was time to elect a new headman
+
+====================================================================================================
+
+                0       1            2               3        4     5           6         7
+Text:   syngkhon,     man       u-kwai        u-member  chnong,    ha       kattæ   ka-por.
+IPA:      sŋ̩kʰɔn     man      ˀu=kwaj       ˀu=mɛmbar     ʧnɔŋ    ha      kat-tɛ    ka=pɔr
+Gloss:   Syngkhon  become  M=betel.nut        M=member  village   LOC     as-nvis    F=time
+POS:         name       v     clitic=n  clitic=english        n  case  adv-deixis  clitic=n 
+
+Trans:	`so the football field is like this, mr kmailang was the secretary of the village, I was the headman, mr laibait was the vice chairman,tiset dkhar was a member of
+
+====================================================================================================
+
+          0              1     2       3     4        5     6      7
+Text:   ki,           kitu    da     man  yong   chnong  phi,    næ.
+IPA:     ki          ki=tu    da     man   jɔŋ     ʧnɔŋ   pʰi     nɛ
+Gloss:  3pl        PL=medl  REAL  become   GEN  village   2pl  D.TAG
+POS:     pn  clitic=deixis  mood       v  case        n    pn      q 
+
+Trans:	`look at this document, the money is paid, now the land belongs to the village.'
+
+====================================================================================================
+
+                     0              1      2      3      4          5        6        7        8           9         10
+Text:          ka-thooh           u-ni  paisa  baroh  paisa          u      nga   chnong  pyllang         mar     katnu
+IPA:            ka=tʰoʔ          ˀu=ni  pajsa  warɔʔ  pajsa         ˀu       ŋa     ʧnɔŋ   pl̩laŋ         mar    kat-nu
+Gloss:  RES=find,search         M=prox  money    all  money  3sg.M.nom  1sg.top  village   gather  belongings  as-which
+POS:              der=v  clitic=deixis      n    num      n         pn       pn        n        v           n     adv-n 
+
+Trans:	`and manipulating them, this person was causing disturbance in the peaceful society, so I started thinking, what can I do? To pay him back also I don�t have
+
+====================================================================================================
+
+             0        1      2            3          4           5       6    7           8                   9       10         11      12
+Text:    dorbar   chnong     le         sein  ka-dorbar     pyllun,     man    i      pyllun              hei-tæ      tæ        mih  paisa.
+IPA:     dɔrbar     ʧnɔŋ     le         seʲn  ka=dɔrbar     pn̩-lun     man   ˀi     pn̩-lun            he-ˀi=tɛ      tɛ        miʔ   pajsa
+Gloss:  meeting  village  three  time,action  F=meeting  CAUS-round  become  1pl  CAUS-round          LOC-N=nvis    nvis  bring.out   money
+POS:          n        n    num            n   clitic=n    prefix-v       v   pn    prefix-v  case-clitic=deixis  deixis          v       n 
+
+Trans:	`after that, since we made a mistake, let us do that. So we had 3 general meetings, after which we collected the money.'
+
+====================================================================================================
+
+             0       1           2        3           4      5       6             7        8
+Text:   karbar  kamnu,     pyllein   ka-ong       kattu   thoh      tæ    ka-rangbah  chnong,
+IPA:    karbar  kammɔn    pn̩-leʲn   ka=ˀɔŋ      kat-tu   tʰɔʔ      tɛ     ka=raŋbaʔ     ʧnɔŋ
+Gloss:  Karbar     how  CAUS-money  RES=say     as-medl  write    nvis     F=headman  village
+POS:      name       q    prefix-n    der=v  adv-deixis      v  deixis  clitic=khasi        n 
+
+Trans:	`after paying mr karbar then mr karbar played another trick, he said, now is time to elect a new headman( current headman to be removed).'
+
+====================================================================================================
+
+                   0        1        2       3     4            5              6           7       8           9
+Text:     ka-rongbah   chnong     nga,      tæ    æm        myrsi           u-ni        u-aw    dang      katni.
+IPA:       ka=raŋbaʔ     ʧnɔŋ       ŋa      tɛ   ˀɛm        mr̩si          ˀu=ni      ˀu=***     daŋ      kat-ni
+Gloss:     F=headman  village  1sg.top    nvis  have  mercy,heart         M=prox       M=***    CONT     as-prox
+POS:    clitic=khasi        n       pn  deixis     v            n  clitic=deixis  clitic=***  aspect  adv-deixis 
+
+Trans:	`these people around 30 of tehm including some women, they instigate that I be removed as the headman. But I don�'t have such a heart and I decided to quit .'
+
+====================================================================================================
+
+                  0    1        2         3     4        5    6        7     8          9
+Text:    pynpyrkhat   ki     nga,    ka-kam    ya      nga   pu   chnong   noh  sahteiñ.
+IPA:    pn̩-pr̩kʰat   ki       ŋa    ka=kam    ja       ŋa   pu     ʧnɔŋ   nɔʔ    saʔteʲn
+Gloss:   CAUS-think  3pl  1sg.top  RES=work   BEN  1sg.top  not  village  IMM1    pending
+POS:       prefix-v   pn       pn     der=v  case       pn  neg        n   adv          v 
+
+Trans:	`so it made me think, and then the some members of the village and children of the village forced me to stay, and I thought that I still have many work that are
+
+====================================================================================================
+
+              0    1        2          3          4       5              6          7              8            9     10      11         12       13
+Text:    ki-thaw   ki      bha          u         ka    bait          ka-ni        ka,          ka-ni       byntai  yong  khloor         mi  chnong.
+IPA:     ki=tʰaw   ki      bha         ˀu         ka   baʲt̪          ka=ni         ka          ka=ni     bn̩ta-ˀi   jɔŋ   kʰlor         mi     ʧnɔŋ
+Gloss:  PL=place  3pl  be.good  3sg.M.nom  3sg.F.acc  direct         F=prox  3sg.F.acc         F=prox  purpose-1pl   GEN    star  2sg.M.nom  village
+POS:    clitic=n   pn        v         pn         pn       v  clitic=deixis         pn  clitic=deixis         n-pn  case       n         pn        n 
+
+Trans:	`after that I held a general meeting of the six community, I was the chairman, then I sorted out all the issues, the land issues.'
+
+====================================================================================================
+
+              0         1           2            3       4         5        6
+Text:   ka-soor     watoh        u-wi       byntai      tæ    ka-por  chnong,
+IPA:     ka=sor    wa-tɔʔ       ˀu=wi     bn̩ta-ˀi      tɛ    ka=pɔr     ʧnɔŋ
+Gloss:  RES=sew    NMZ-be       M=one  purpose-1pl    nvis    F=time  village
+POS:      der=v  clitic-v  clitic=num         n-pn  deixis  clitic=n        n 
+
+Trans:	`after calling the general meeting, we reached an agreement in one voice that we will divide among the community the land in the village.'
+
+====================================================================================================
+
+             0      1     2        3
+Text:       ni  phra,  ynru  chnong,
+IPA:        ni   pʰra  n̩ru     ʧnɔŋ
+Gloss:    prox  eight   six  village
+POS:    deixis    num   num        n 
+
+Trans:	`so I felt at that time, all the 6 communities were satisfied.'
+
+====================================================================================================
+
+               0       1     2          3             4        5            6
+Text:      i-por     man    da         ka     u-rongbah   chnong  ka-raliang,
+IPA:      ˀi=pɔr     man    da         ka     ˀu=raŋbaʔ     ʧnɔŋ    ka=raliaŋ
+Gloss:    N=time  become  REAL  3sg.F.acc     M=headman  village    F=Raliang
+POS:    clitic=n       v  mood         pn  clitic=khasi        n     clitic=n 
+
+Trans:	`after the conflict arise from mulieh,then it arise in nongkynrih. Still I tried to sort it out as I was the chairman of the (6 communities) and I was the headman of raliang.'
+
+====================================================================================================
+
+                   0        1     2          3         4
+Text:     ka-rongbah   chnong  yong  ka-chnong  raliang,
+IPA:       ka=raŋbaʔ     ʧnɔŋ   jɔŋ    ka=ʧnɔŋ    raliaŋ
+Gloss:     F=headman  village   GEN  F=village   Raliang
+POS:    clitic=khasi        n  case   clitic=n         n 
+
+Trans:	`so as of now,I have learned many things being the headman of raliang.'
+
+====================================================================================================
+
+             0     1         2          3       4     5          6             7        8
+Text:   khatwi  snæm    lyntær          u     man    da        kam     u-rongbah  chnong,
+IPA:    kʰatwi  snɛm    ln̩tɛr         ˀu     man    da        kam     ˀu=raŋbaʔ     ʧnɔŋ
+Gloss:  eleven  year  continue  3sg.M.nom  become  REAL  like,want     M=headman  village
+POS:       num     n         v         pn       v  mood          v  clitic=khasi        n 
+
+Trans:	`I am the headman mr bynroi dkhar, my name is bynroi and my surname is dkhar, and I was the headman for 11 consecutive years.'
+
+====================================================================================================
+
+             0     1          2         3     4              5              6          7    8    9       10
+Text:    chnong    ya  ka-chnong  raliang,     e       khublei,        khublei    shiboon    i   ki  waroh.
+IPA:       ʧnɔŋ    ja    ka=ʧnɔŋ    raliaŋ    ˀe         kʰuble         kʰuble      ʃibun   ˀi   ki   warɔʔ
+Gloss:  village   BEN  F=village   Raliang  give  thanks(Khasi)  thanks(Khasi)  very.much  1pl  3pl     all
+POS:          n  case   clitic=n         n     v              v              v      khasi   pn   pn     num 
+
+Trans:	`so with that, I give thanks to you, thank you For this interview as the village headman, thanks, thank you all very much
+
+====================================================================================================
+
+          0                1         2           3        4    5    6         7          8    9         10             11
+Text:     æm           hei-wi     i-por        i-wi   chnong    i   wa   pyrtuit         u,    i   pyrtuit  i-rangjyrtæh.
+IPA:     ˀɛm         he-ˀi=wi    ˀi=pɔr       ˀi=wi     ʧnɔŋ   ˀi   wa  pr̩tuʲt̪         ˀu   ˀi  pr̩tuʲt̪   ˀi=raŋʤr̩tɛʔ
+Gloss:  have        LOC-N=one    N=time       N=one  village  1pl  NMZ      name  3sg.M.nom  1pl      name   N=Rangjyrtæh
+POS:       v  case-clitic=num  clitic=n  clitic=num        n   pn  mod         n         pn   pn         n    clitic=name 
+
+Trans:	`there was once a village named Rangjyrtæh..'
+
+====================================================================================================
+
+          0         1        2      3    4    5       6             7     8              9         10          11    12       13
+Text:     da  ya-chong  pyrkhat    bha    i   wa  kammon     u-pyndooh    ya          ki-ni   ki-jait         sih    ha   chnong
+IPA:      da    ja-ʧɔŋ  pr̩kʰat    bha   ˀi   wa  kammɔn    ˀu=pn̩-doʔ    ja          ki=ni  ki=ʤaʲt̪         siʔ    ha     ʧnɔŋ
+Gloss:  REAL   BEN-sit    think  INTS1  1pl  NMZ     how  NF=CAUS-lose   BEN        PL=prox   PL=type  be.sad,bad   LOC  village
+POS:    mood  prefix-v        v    adv   pn  mod       q  der=prefix-v  case  clitic=deixis  clitic=n           v  case        n 
+
+Trans:	`the church committee had a discussion of how to stop these bad habits in the locality.'
+
+====================================================================================================
+
+                        0    1            2         3    4               5     6        7     8        9     10   11    12      13
+Text:              hei-ni,   ym         kwah        de   ki         u-liwan   cha  chnong,   cha   chnong  yong   ki   cha  tuber.
+IPA:              he-ˀi=ni   m̩         kwaʔ        de   ki        ˀu=liwan    ʧa     ʧnɔŋ    ʧa     ʧnɔŋ   jɔŋ   ki    ʧa   tubɛr
+Gloss:          LOC-N=prox  NEG  want,desire  neg.ints  3pl  NF=return.home   ALL  village   ALL  village   GEN  3pl   ALL   Tuber
+POS:    case-clitic=deixis  neg            v       adv   pn           der=v  case        n  case        n  case   pn  case    name 
+
+Trans:	` both sisters came here as maid servants, so they lived here, they don't want to go back to their own village, Tuber" .'
+
+====================================================================================================
+
+               0            1       2                   3     4    5     6        7       8          9         10         11      12        13
+Text:          oo       hi-tæ,      tæ              hei-ni    ha  lad   san   chnong      tæ         oo   li-khwe          u     man   u-sngi.
+IPA:           ˀo        hi-tɛ      tɛ            he-ˀi=ni    ha  lad   san     ʧnɔŋ      tɛ         ˀo   li-kʰwe         ˀu     man    ˀu=sŋi
+Gloss:  3sg.M.top    EMPH-nvis    nvis          LOC-N=prox   LOC  way  five  village    nvis  3sg.M.top  DUR-fish  3sg.M.nom  become     M=day
+POS:           pn  ints-deixis  deixis  case-clitic=deixis  case    n   num        n  deixis         pn  prefix-v         pn       v  clitic=n 
+
+Trans:	`so loh ryndi worked in a field by the side of the river thlumuwi, he had his own house in that place and that's in sanchnong junction, he went for fishing
+
+====================================================================================================
+
+           0     1      2     3          4      5           6     7        8       9     10       11
+Text:     sum  deih    sum   noh        pho   bhah       kattu    da      jan     poi   cha  chnong.
+IPA:      sum   deʔ    sum   nɔʔ        pʰɔ   bhaʔ      kat-tu    da      ʤan     pɔj    ʧa     ʧnɔŋ
+Gloss:  bathe   ADH  bathe  IMM1  2sg.F.nom  cause     as-medl  REAL  be.near  arrive   ALL  village
+POS:        n  mood      n   adv         pn      v  adv-deixis  mood        v       v  case        n 
+
+Trans:	`they went from hadem, he took her to nangbah, but before they reaced umlatyaab, khmah said to lasubon 'go have a bath because we are about to reach the
+
+====================================================================================================
+
+           0              1     2        3     4      5
+Text:     da            bæh    na   chnong    na  thaw.
+IPA:      da            bɛʔ    na     ʧnɔŋ    na   tʰaw
+Gloss:  REAL  trap.with.net   ABL  village   ABL  place
+POS:    mood              v  case        n  case      n 
+
+Trans:	`at that time Lisan Shyllong gave birth to her son Synriang, and she was driven away from that village'..'
+
+====================================================================================================
+
+            0        1    2     3       4    5            6     7    8            9          10   11    12          13             14
+Text:   khatar   chnong  chi   yaw      tæ   ym         lait  luti   ym         lait  syngkeiñ   ym    æm      ka-nia       ka-khot.
+IPA:    kʰatar     ʧnɔŋ   ʧi   jaw      tɛ   m̩         lat̪  luti   m̩         lat̪    sŋ̩keʲɲ   m̩   ˀɛm      ka=nia        ka=kʰɔt
+Gloss:  twelve  village  set  week    nvis  NEG  free,escape   way  NEG  free,escape   location  NEG  have  RES=reason  RES=knowledge
+POS:       num        n  num     n  deixis  neg            v     n  neg            v          n  neg     v       der=v          der=v 
+
+Trans:	`he claimed his part he said i couldn't go and run twelve villages a night, couldn't find my ways and i has no arguments'..'
+
+====================================================================================================
+
+           0           1                     2     3        4     5      6     7      8
+Text:     ha      u-toor             li-pyndæp    ha   chnong    ha   thaw    ne     sæ
+IPA:      ha      ˀu=tor            li-pn̩-dɛp    ha     ʧnɔŋ    ha   tʰaw    ne     sɛ
+Gloss:   LOC  NF=advance         DUR-CAUS-CPLV   LOC  village   LOC  place    or  C.TAG
+POS:    case       der=v  prefix-prefix-aspect  case        n  case      n  conj      q 
+
+Trans:	` when they (the other tribes) reached, when they say they die, it's ok to advance to the village, at the advance to finish it completely in the village.'
+
+====================================================================================================
+
+                   0     1    2       3         4    5    6     7    8       9     10        11                  12    13       14
+Text:         hei-rta  yong  phi    jooh    kynmoo  phi   wa    æm   wa    jooh   wan  ka-khlam              hei-ni    ha  chnong?
+IPA:       he-ˀi=reta   jɔŋ  pʰi     ʤoʔ     kn̩mo  pʰi   wa   ˀɛm   wa     ʤoʔ   wan  ka=kʰlam            he-ˀi=ni    ha     ʧnɔŋ
+Gloss:      LOC-N=age   GEN  2pl     HAB  remember  2pl  NMZ  have  NMZ     HAB  come  F=plague          LOC-N=prox   LOC  village
+POS:    case-clitic=n  case   pn  aspect         v   pn  mod     v  mod  aspect     v  clitic=n  case-clitic=deixis  case        n 
+
+Trans:	`In your age do you remmber any plague that happened here in your vill.'; .'
+
+====================================================================================================
+
+            0              1              2          3           4       5     6        7    8    9         10       11
+Text:       tæ       nei-bhah          ka-ni  ka-chnong  sohmynting      tæ    da     boon   ki   wa       yut  chnong.
+IPA:        tɛ     ne-ˀi=bhaʔ          ka=ni    ka=ʧnɔŋ   sɔʔmn̩tiŋ      tɛ    da      bon   ki   wa       jut     ʧnɔŋ
+Gloss:    nvis    ABL-N=cause         F=prox  F=village  Sohmynting    nvis  REAL  be.much  3pl  NMZ  run.away  village
+POS:    deixis  case-clitic=v  clitic=deixis   clitic=n        name  deixis  mood        v   pn  mod         v        n 
+
+Trans:	`before that i knew only a story that my mother used to tell, in her childhood so many people fled from this vill.'; .'
+
+====================================================================================================
+
+               0    1    2                   3         4    5    6    7     8         9        10   11       12    13       14
+Text:      ki-bru   wa  yap              hei-tæ     i-por  ong   ki   ym    æm        de   u-nood   ki  u-chong    ha  chnong.
+IPA:       ki=bru   wa  jap            he-ˀi=tɛ    ˀi=pɔr  ˀɔŋ   ki   m̩   ˀɛm        de   ˀu=nod   ki   ˀu=ʧɔŋ    ha     ʧnɔŋ
+Gloss:  PL=person  NMZ  die          LOC-N=nvis    N=time  say  3pl  NEG  have  neg.ints  NF=dare  3pl   NF=sit   LOC  village
+POS:     clitic=n  mod    v  case-clitic=deixis  clitic=n    v   pn  neg     v       adv    der=v   pn    der=v  case        n 
+
+Trans:	`it seems after the war, the plague happened, many people died and many people were scared to live in the vill.'; .'
+
+====================================================================================================
+
+            0      1           2    3     4    5       6      7              8          9                   10    11       12
+Text:     jooh  khana       parom   ki    ya  phi  kammon  sdang      ka-balang    kristan              hei-ni    ha  chnong?
+IPA:       ʤoʔ  kʰana       parɔm   ki    ja  pʰi  kammɔn   sdaŋ       ka=balaŋ    kristan            he-ˀi=ni    ha     ʧnɔŋ
+Gloss:     HAB   tell  tell.story  3pl   BEN  2pl     how  begin  F=association  christian          LOC-N=prox   LOC  village
+POS:    aspect      v           v   pn  case   pn       q      v       clitic=n    english  case-clitic=deixis  case        n 
+
+Trans:	`did they tell you a story of how christianity began in this vill.'; .'
+
+====================================================================================================
+
+                    0        1     2          3      4    5          6        7                   8
+Text:         hei-won      dur   wan         ko     yi   wa      seiñ   chnong             hei-ni'
+IPA:        he-ˀi=wɔn      dur   wan         kɔ     ji   wa       seʲɲ     ʧnɔŋ            he-ˀi=ni
+Gloss:    LOC-N=which  purpose  come  3sg.F.nom  thing  NMZ  committee  village          LOC-N=prox
+POS:    case-clitic=n        n     v         pn      n  mod          n        n  case-clitic=deixis 
+
+Trans:	`Q) `ok, you brother in law, as you know tell us how sohmyntin vill came to be Who estd this vill.'
+
+====================================================================================================
+
+            0       1                   2       3              4     5      6       7     8      9        10                  11
+Text:       tæ     dæp              nei-tæ    chah            beh    na   jwai      tæ   wan  chong   chnong            chei-ni.
+IPA:        tɛ     dɛp            ne-ˀi=tɛ     ʧaʔ            bɛʔ    na   ʤwaj      tɛ   wan    ʧɔŋ     ʧnɔŋ            ʧe-ˀi=ni
+Gloss:    nvis    CPLV          ABL-N=nvis    PASS  trap.with.net   ABL  Jowai    nvis  come    sit  village          ALL-N=prox
+POS:    deixis  aspect  case-clitic=deixis  aspect              v  case   name  deixis     v      v        n  case-clitic=deixis 
+
+Trans:	`the youngest sister was driven away from jowai, then she came and resided in this vill.'
+
+====================================================================================================
+
+                         0     1        2           3     4
+Text:              chei-ni   cha   chnong   sohmyntin   se.
+IPA:              ʧe-ˀi=ni    ʧa     ʧnɔŋ   sɔʔmn̩tiŋ    sa
+Gloss:          ALL-N=prox   ALL  village  Sohmynting  only
+POS:    case-clitic=deixis  case        n        name  conj 
+
+Trans:	`it seems there was a batlle at that time it continued till this vill.'
+
+====================================================================================================
+
+               0         1         2        3    4    5     6      7        8           9
+Text:      ki-yi        de   ki-jait   chnong   ki   wa   wan  chong   chnong      katte'
+IPA:       ki=ji        de  ki=ʤaʲt̪     ʧnɔŋ   ki   wa   wan    ʧɔŋ     ʧnɔŋ      kat-te
+Gloss:  PL=thing  neg.ints   PL=type  village  3pl  NMZ  come    sit  village    as-mprox
+POS:    clitic=n       adv  clitic=n        n   pn  mod     v      v        n  adv-deixis 
+
+Trans:	`Q) `What are the different types of people that resided in this vill..'
+
+====================================================================================================
+
+           0    1       2                 3        4        5    6     7              8     9       10    11   12    13         14      15
+Text:    bait   ki     man           u-thung  rangbah   chnong   ki    da           u-ni  yong  pyrtuh   hi,  toh    hi        kam     tæ'
+IPA:    baʲt̪   ki     man           ˀu=tʰuŋ   raŋbaʔ     ʧnɔŋ   ki    da          ˀu=ni   jɔŋ  pr̩tuʔ    hi  tɔʔ    hi        kam      tɛ
+Gloss:   IMM3  3pl  become  NF=plant,appoint  headman  village  3pl  INST         M=prox   GEN  Pyrtuh  EMPH   be  EMPH  like,want    nvis
+POS:      adv   pn       v             der=v    khasi        n   pn  case  clitic=deixis  case    name  ints    v  ints          v  deixis 
+
+Trans:	`so this pyrtuh clan they said, it's the first to estd this vill, till this day the chief of this vill should always be appointed from this clan, is it true bro in law .'
+
+====================================================================================================
+
+                  0    1    2     3              4                   5     6        7            8
+Text:    ki-khyriem   ki   wa   wan      sohchnong             chei-ni   cha   chnong  sohmynting.
+IPA:    ki=kʰn̩riam   ki   wa   wan       sɔʔ-ʧnɔŋ            ʧe-ˀi=ni    ʧa     ʧnɔŋ    sɔʔmn̩tiŋ
+Gloss:  PL=Khynriem  3pl  NMZ  come  fruit-village          ALL-N=prox   ALL  village   Sohmynting
+POS:    clitic=name   pn  mod     v            n-n  case-clitic=deixis  case        n         name 
+
+Trans:	`as far as i know, there no such belief or ceremony because the hindu or non Christians at that time were just the pyrtuh clan and the khasis who resided in this
+
+====================================================================================================
+
+           0                   1     2       3        4
+Text:    ne,             chei-ni   cha   madan  chnong.
+IPA:      ne            ʧe-ˀi=ni    ʧa   madan     ʧnɔŋ
+Gloss:    or          ALL-N=prox   ALL  ground  village
+POS:    conj  case-clitic=deixis  case       n        n 
+
+Trans:	`but we were not allowed they told us go and stay over there, here near the village field..'
+
+====================================================================================================
+
+         0    1     2    3    4     5          6          7    8    9    10    11   12                  13      14      15       16
+Text:    ym   pu   æm,   ym   pu    æm      u-man    kristan   ki  kat   wa   wan   ki             hei-ni,    dang     man  chnong.
+IPA:     m̩   pu   ˀɛm   m̩   pu   ˀɛm     ˀu=man    kristan   ki  kat   wa   wan   ki            he-ˀi=ni     daŋ     man     ʧnɔŋ
+Gloss:  NEG  not  have  NEG  not  have  NF=become  christian  3pl   as  NMZ  come  3pl          LOC-N=prox    CONT  become  village
+POS:    neg  neg     v  neg  neg     v      der=v    english   pn  adv  mod     v   pn  case-clitic=deixis  aspect       v        n 
+
+Trans:	`no no not yet Christians, they were still non Christian..'
+
+====================================================================================================
+
+           0        1
+Text:     ha  chnong.
+IPA:      ha     ʧnɔŋ
+Gloss:   LOC  village
+POS:    case        n 
+
+Trans:	`the first and important cultivation for us in this village is rice, the second is potato, the third is millet, then maize cultivation followed.'
+
+====================================================================================================
+
+                    0                    1        2         3            4
+Text:           ki-ni          ki-nongseñ   chnong  mynchwa,   ki-pyrtuh.
+IPA:            ki=ni          ki=nɔŋ-seʲɲ     ʧnɔŋ    mn̩ʧwa    ki=pr̩tuʔ
+Gloss:        PL=prox  PL=ag.nmz-committee  village    before    PL=Pyrtuh
+POS:    clitic=deixis         clitic=nmz-n        n       loc  clitic=name 
+
+Trans:	`earlier my grandfather told that this paddy field belongs to the jwai people, so the pyrtuh clan, who estd this vill here.'
+
+====================================================================================================
+
+                   0       1       2    3            4      5      6    7     8        9
+Text:        ka-sboh  chyeñ    nang  yoh          kba  chooh  chooh   ki    na  chnong.
+IPA:         ka=sbɔʔ    ʧʔeɲ     naŋ  jɔʔ          kba    ʧoʔ    ʧoʔ   ki    na     ʧnɔŋ
+Gloss:  F=fertilizer    bone    CONT  get  rice[paddy]   more   more  3pl   ABL  village
+POS:        clitic=n       n  aspect    v            n    num    num   pn  case        n 
+
+Trans:	`then the harvest grew more and more since the used of the manure obtained from cow bones.'
+
+====================================================================================================
+
+            0       1              2    3      4        5                   6     7            8       9
+Text:     mut   theid          ki-ni   wa  chong   chnong             chei-ni    na      ki-jwai  waroh'
+IPA:      mut  tʰeit̪          ki=ni   wa    ʧɔŋ     ʧnɔŋ            ʧe-ˀi=ni    na      ki=ʤwaj   warɔʔ
+Gloss:  means     buy        PL=prox  NMZ    sit  village          ALL-N=prox   ABL     PL=Jowai     all
+POS:        v       v  clitic=deixis  mod      v        n  case-clitic=deixis  case  clitic=name     num 
+
+Trans:	`Q) `that means the citizens of this vill bought the field from the jwai people .'
+
+====================================================================================================
+
+              0              1     2          3       4      5     6              7    8    9     10     11       12                  13
+Text:       i-ja      wei-blooh    ne        kam      tæ   bait    ha          ki-ni   ki   wa   wan  chong   chnong            chei-ni.
+IPA:       ˀi=ʤa     we-ˀi=bloʔ    ne        kam      tɛ  baʲt̪    ha          ki=ni   ki   wa   wan    ʧɔŋ     ʧnɔŋ            ʧe-ˀi=ni
+Gloss:    N=rice    COMT-N=salt    or  like,want    nvis   IMM3   LOC        PL=prox  3pl  NMZ  come    sit  village          ALL-N=prox
+POS:    clitic=n  conj-clitic=n  conj          v  deixis    adv  case  clitic=deixis   pn  mod     v      v        n  case-clitic=deixis 
+
+Trans:	`but here since those time we lived on agriculture, they say as long as we are getting rice and salt we will continue to cultivate.'
+
+====================================================================================================
+
